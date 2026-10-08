@@ -34,14 +34,14 @@ P = police (Tess/Brannock) · A = Archie · R = reader (= A, by POV, unless note
 | 1 | Pinkham: collapse; Archie said "aconite" | +every method; +Ivy freed her hand; +"Sparrow… the trunk"; +Ivy's wipe & pocket; +numb mouth → aconite. Already knows: toot, tea, controls | R gets toot and tea in a recalled clause |
 | 2 | +Tess: aconite claim; Ivy's "held my hand"; the wipe (Archie's word); screen requested | +Lorelei dead 9:40; +Ivy lied to police | — |
 | 3 | +vase photo (text 12:40 a.m.) | +horn timing inference; +monkshood in the vase (Gus's garden) | R: Vivienne evades "Sparrow" |
-| 4 | +thermos washed (Bev) | +Hollis invited the show; "Beat her" | R: two Hollis facts, ordinary |
+| 4 | +thermos washed (Bev) | +"Beat her" | R: one Hollis fact, ordinary |
 | 5 | already had official footage (toot, tea) overnight; +Archie's horn-timing argument | +he's a person of interest; +Challenge context on record | R: sees the toot and tea for the first time (new, not a retelling) |
 | 6 | +cut stalks (warrant) | +Kev in prop room Sun night; +Kev has "something" | R: Hollis's border in Vivienne's list |
 | 7 | +page 112 (Archie's text) | +the card's names; +wipe is routine (the "reset") | R: H. Langley 12/03 in a list |
 | 8 | — | +Teddy's "exteriors only"; +hatbox to safe; +Ivy leaving her mother | — |
 | 9 | — | +Warren visiting someone at Sea View; Walt's boat line | — |
 | 10 | — | +eBay sales; +whisper recalled | — |
-| 11 | +Archie publicly asked in re monkshood | +disrepute clause | — |
+| 11 | +Archie publicly asked in re monkshood | +disrepute clause; +Hollis wrote to the TV people for the roof | R: "Guilty." |
 | 12 | (Tess) +replica demo; Ivy's remote already found Tue (prints) | +the town knows the method; +remote | R: "Mrs. Tibbetts… lips to the small end" |
 | 13 | (had key from Hollis's statement) | +key; +Carol; Warren's motive gone | — |
 | 14 | — | +readings, $1,050, "misses you on the water"; recalls Shannon's fingertip | R: "water's never warm here"; fingertip first heard |
@@ -81,7 +81,7 @@ Each step of Archie's Ch 34 deduction and where the reader first held it:
 5. The killer knew where the medium's lips go — Ch 22 (Archie's midpoint insight); Hollis taught it — Ch 12.
 6. Means: Hollis's monkshood border — Ch 6; dug up — Ch 26.
 7. Motive chain: ledger P.L., Merrow, son D., 15, quarry, wife H. — Ch 33; Peter Langley on the memorial — Ch 25; H. Langley 12/03 — Ch 7; Langley = Hollis — Ch 34; "Danny. My son." — Ch 16; "come see me on the water" (ledger) vs "the water's never warm here" — Ch 14.
-8. Opportunity to stage it: she invited the show (Ch 4), talked him out of cancelling (Ch 4), lit the candles that made the flare that made the pan (Ch 28).
+8. Opportunity to stage it: she invited the show (Ch 11), talked him out of cancelling (Ch 4), lit the candles that made the flare that made the pan (Ch 28).
 
 ## Must not leak before Ch 34
 
@@ -89,4 +89,4 @@ Hollis's married name; any link of Peter to Hollis; Lorelei having worked Rockla
 
 ## Hollis's appearances (spread, never spotlighted)
 
-Ch 1 (voice, lights, 911) · Ch 4 (two facts) · Ch 14 (Rosie) · Ch 16 (costumes; Danny) · Ch 26 (over the fence) · Ch 28 (on tape, among crew) · Ch 35 (booth). Mentioned: Ch 6 (garden list), Ch 10 (phoned Vivienne), Ch 12 ("Mrs. Tibbetts"). Each appearance has its own ordinary business; no two clue facts in one appearance except Ch 4's pair, which is one speech about one thing (why the show came).
+Ch 1 (voice, lights, 911) · Ch 4 ("Beat her") · Ch 11 ("Guilty": the roof letter) · Ch 14 (Rosie) · Ch 16 (costumes; Danny) · Ch 26 (over the fence) · Ch 28 (on tape, among crew) · Ch 35 (booth). Mentioned: Ch 6 (garden list), Ch 10 (phoned Vivienne), Ch 12 ("Mrs. Tibbetts"). Each appearance has its own ordinary business; no two clue facts in one appearance except the Ch 28 tape (candles and slide), which is evidence the whole room is reading for other people.
