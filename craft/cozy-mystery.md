@@ -4,7 +4,7 @@ document: genre-standard
 schema_version: craft.v3
 consumed_by: planners (when designing books and casts), critics (when judging whether a draft is the genre it claims), the red-teamer (the conventions attack surface)
 read_when: designing a mystery or cast; reviewing an outline; adjudicating an "is this cozy?" dispute in revision
-status: v3.0, 2026-10-08 — rewritten as a genre standard for any cozy mystery. Hard gates (pass/fail) replace the non-negotiables; murder in Chapter 1 or 2; order of authority; the lead owns the room; comp benchmarking.
+status: v3.1, 2026-10-08 — sixteen hard gates in five groups (opening and structure, chapter mechanics, the mystery, the cozy contract, the ending); lead within three pages; foil no later than the chapter after commitment; bite-sized chapters and light-energy apply to every book. (v3.0: rewritten as a genre standard for any cozy mystery.)
 ---
 
 # Genre Standard — what a cozy mystery is
@@ -19,7 +19,9 @@ The crime is serious; the world is gentle. The reader's pleasure is **companions
 
 ## The hard gates (pass/fail)
 
-These are not conventions to weigh. They are checked in the outline's gate table, after drafting, and after every revision pass. Only the author can grant an exception, in writing, in the book's brief. No planner, critic, reviewer, reader panel or score can waive one, and no strength elsewhere offsets a failure. A failed gate is reported first in any review, ahead of every other finding.
+These are not conventions to weigh. They are checked in the outline's gate table, after drafting, and after every revision pass. Only the author can grant an exception, in writing, in the book's brief. No planner, critic, reviewer, reader panel or score can waive one, and no strength elsewhere offsets a failure. A failed gate is reported first in any review, ahead of every other finding. `checklist.md` carries the one-page version for briefs.
+
+### A. Opening and structure
 
 1. **The murder happens in Chapter 1 or Chapter 2.** By the end of Chapter 2 someone is dead on the page, witnessed or found, and the reader knows it. The crime is the book's global inciting incident: it *opens* the Beginning Hook and is never the Beginning Hook's turning point or climax. It need not yet be *known* to be murder (a collapse thought natural, a fall, an accident awaiting toxicology), but the death itself cannot wait.
    - Everything a planner is tempted to stage first (the arrival, the wager, the feud, the gathering, the ensemble, the home base) is delivered around the death and through the investigation that follows, never as a run-up to the body.
@@ -27,17 +29,39 @@ These are not conventions to weigh. They are checked in the outline's gate table
    - A pre-crime hook (a threat, a bet, an ominous arrival) does not substitute for the crime.
    - None of these is an exception: "it's Book 1," "the setup is charming," a set-piece, strong complications, an event deadline, a market-percentage benchmark.
    - The author may approve a death in Chapter 3. Nothing later is permitted.
-2. **The lead is on the page in Chapter 1, recognisably themself.** The first chapter shows the sleuth doing something characteristic (working, playing, showing off, enjoying something) with other people present. The reader should know within pages why this is someone worth following.
+2. **The lead appears within the first three pages** (about the first 750 words). The book may open on the victim, the body or the scene of the crime rather than on the lead, but the lead arrives fast. On first appearance the lead is recognisably themself, doing something characteristic (working, playing, showing off, enjoying something), so the reader knows within pages why this is someone worth following.
 3. **The lead commits to the investigation by the end of Chapter 3,** for a reason rooted in character (appetite, loyalty, guilt, curiosity, a personal stake), not mere proximity.
-4. **The official foil is on the page by the end of Chapter 3,** whether a police officer, coroner, constable or similar authority. Where the book has a recurring partner or romantic foil, the two meet and spar by Chapter 3 and share scenes throughout. Flag any gap longer than three chapters.
+4. **The official foil is on the page no later than the chapter after the lead commits** (so by Chapter 4 at the latest): a police officer, coroner, constable or similar authority. Where the book has a recurring partner or romantic foil, the two spar from their first meeting and share scenes throughout, with no gap longer than three chapters.
 5. **Every suspect, including the killer, is on the page by the end of the first act** (about 25% of the book). No new suspect after the midpoint.
-6. **Fair play.** Every clue the solution depends on is on the page, legibly, before the reveal. The sleuth reaches the solution through deduction from evidence the reader held. A confession may confirm and complete the solution; it may not supply it. On re-read the reader can see they had everything.
-7. **The death may be witnessed; the violence is never rendered.** A collapse or discovery on the page is permitted. Gore, physical suffering, sexual content and violent acts stay off the page. Profanity is minimal.
-8. **The sleuth is an amateur with a legitimate reason to be present** and a procedurally credible relationship with the authorities. Their work, connections or community give them access. A wish to help confers neither police powers nor a right to a grieving person's cooperation.
-9. **The killer is human, never a monster.** The motive is comprehensible and, at best, tragic: the reader should feel *why*, not just *that*.
-10. **The climax is in motion, never a drawing-room gathering.** The sleuth is briefly at real risk, scaled honestly to their body, and the sleuth causes the outcome rather than receiving it.
-11. **Restoration.** The case resolves, justice is done, the community resets (altered), and one visible human cost remains.
-12. **The furniture is fixed:** a closed circle of suspects, a home base, a recurring ensemble and a procedural foil. Their specifics rotate per book.
+6. **The five commandments hold at every level.** Every chapter is a complete scene with an inciting incident, progressive complications and a turning point, a crisis, a climax and a resolution, and a value that measurably shifts. A deliberately interrupted scene is recorded in the brief and completed in the next chapter. Every act and the global story are mapped with their five commandments and the chapter that carries each (`storygrid-commandments.md`).
+
+### B. Chapter mechanics
+
+7. **Chapters are bite-sized: one scene, under 2,000 words.** Each chapter is one dramatic scene (at most two closely connected scenes) and under 2,000 words. This is what makes a page-turner: the reader always feels there is time for one more chapter. Exceptions need a specific reading-experience reason and the author's approval, recorded in the brief; aim for at least 95% of chapters inside the rule.
+8. **Every chapter changes the configuration.** Each chapter differs from the one before in at least two of place, cast and scale (one-to-one, small group, full room). Never three consecutive chapters in the same location.
+9. **Book length** is within the brief's target (default 65,000–85,000 words).
+
+### C. The mystery
+
+10. **Fair play.** Every clue the solution depends on is on the page, legibly, before the reveal. The sleuth reaches the solution through deduction from evidence the reader held. A confession may confirm and complete the solution; it may not supply it. On re-read the reader can see they had everything.
+11. **The sleuth is an amateur with a legitimate reason to be present** and a procedurally credible relationship with the authorities. Their work, connections or community give them access. A wish to help confers neither police powers nor a right to a grieving person's cooperation.
+12. **The killer is human, never a monster.** The motive is comprehensible and, at best, tragic: the reader should feel *why*, not just *that*.
+13. **The climax is in motion, never a drawing-room gathering.** The sleuth is briefly at real risk, scaled honestly to their body, and the sleuth causes the outcome rather than receiving it.
+
+### D. The cozy contract
+
+14. **Nothing on the page breaks the cozy promise.**
+    - The death may be witnessed (a collapse or a discovery); the violence is never rendered. No gore, no clinical detail of injury, no torture.
+    - No sex on the page; romance stays at the level of tension, a kiss or a closed door.
+    - No profanity beyond the mildest (the series style guide lists what is allowed, if anything).
+    - No harm to children or animals on the page; a pet never dies.
+    - No sexual violence, no graphic drug use, no cruelty played for effect.
+    - The register is light-energy (`light-energy-structure.md`): never as dark as a thriller or a police procedural.
+15. **The furniture is fixed:** a closed circle of suspects, a home base, a recurring ensemble and a procedural foil. Their specifics rotate per book.
+
+### E. The ending
+
+16. **Restoration, and a reason to come back.** The case resolves completely and justice is done; the community resets, altered; one visible human cost remains. The mystery never ends on a cliffhanger, but at least one personal or ensemble thread pulls the reader toward the next book.
 
 ## Conventions (strong defaults)
 
@@ -63,13 +87,13 @@ The lead is the book's product. Readers buy the series to spend time with this p
 - **Write the lead from behaviour, not adjectives.** "Charming, larger than life, lovable" is easy to agree with and easy to lose. The lead card says how the lead enters a room, talks, theorises, wins, loses, spends, flirts, fears and enjoys, with sample lines at several registers.
 - **A named reference is a specification.** If the author models the lead on an existing character, the lead card translates that model into concrete behaviour, and that section travels word for word into every drafting and revision brief. Test chapters against it directly ("Would that character say this out loud?").
 - **The lead owns the room.** The lead is the brightest, most distinctive voice in most scenes, and their wit lives in their own dialogue, said to people, rather than in the narration. Supporting characters are vivid in their own currency (plain speech, literalism, task, silence, a different kind of authority) and may win exchanges. The house restraints on wit, epigram, cleverness and display exist to stop *ambient* wit (everyone sounding equally polished). They apply to the supporting cast and the narrator, **never as a ceiling on the lead**.
-- **Introduce the lead at strength.** The opening chapters show the lead at their best: competent, delighted, in their element. A flaw can show early, but the reader must first see what makes this person magnetic. Penance, exile and humiliation are not an introduction.
+- **Introduce the lead at strength** (and within three pages, gate 2). The opening chapters show the lead at their best: competent, delighted, in their element. A flaw can show early, but the reader must first see what makes this person magnetic. Penance, exile and humiliation are not an introduction.
 - **Lovability is not humiliation.** The lead can lose, be caught, be wrong and pay for it. Across any run of chapters they also win, are right, delight people and get the better of someone. Count both; a lead who mostly loses has been flattened.
 - **The lead grows; they don't shrink.** An internal arc may cost the lead something, but the book never treats the lead's essential nature (their size, appetite, generosity, showmanship, curiosity) as the defect to cure.
 
-## Bite-sized chapters (house default)
+## Bite-sized chapters (gate 7)
 
-Plan roughly **95% of chapters as one dramatic scene wherever possible, no more than two closely connected scenes, and normally fewer than 2,000 words for the whole chapter**. Shorter chapters are welcome; there is no minimum to pad towards. This is the house reading rhythm, not a universal definition of the genre.
+Every book plans roughly **95% of chapters as one dramatic scene, no more than two closely connected scenes, and fewer than 2,000 words for the whole chapter**. Shorter chapters are welcome; there is no minimum to pad towards. The principle comes from Shawn Coyne's Story Grid: a chapter that is one complete scene ends on a turn, and a short one always leaves the reader feeling there is time for another. That is how a cozy becomes a page-turner.
 
 A scene is a developing dramatic encounter, not a room. A live negotiation can continue from a hall into a study; several unrelated visits in one house are still several scenes. Brief travel, orientation or an aftermath beat need not be independent scenes, but their words and cumulative load still count. Do not relabel a string of encounters as "one arrival scene" to satisfy the rule. See `storygrid-commandments.md` for the distinction between chapter, scene and sequence.
 
@@ -77,7 +101,7 @@ Give each chapter a dominant immediate purpose, a meaningful development or turn
 
 **Solve overcrowding in the plan before compressing the prose.** Split at an earned turn, relocate an encounter, combine genuinely compatible business or remove a dispensable function. Protect the chosen scene's conversation, physical setting and character pleasure. Do not keep every introduction by reducing each person to a name, each room to a prop and each exchange to its information. Distribute the ensemble across the opening sequence. If the material needs more chapters, review chapter count and downstream references rather than forcing it into the old containers.
 
-Longer chapters or more than two scenes need a specific reading-experience reason and the author's approval. A continuous set-piece may justify an exception; "all these items are required," "it is Chapter 1" and "it is the finale" do not automatically do so. Record the reason briefly in the brief or revision report. Roughly 95% is a whole-book aspiration, not an exact quota or an automatic failure.
+Longer chapters or more than two scenes need a specific reading-experience reason and the author's approval. A continuous set-piece may justify an exception; "all these items are required," "it is Chapter 1" and "it is the finale" do not automatically do so. Record the reason briefly in the brief or revision report. The gate fails when unapproved exceptions accumulate, not on a single recorded exception.
 
 **Capacity is editorial, not arithmetic.** Budget developed encounters and the attention they require, not a fixed number of words per beat or named person. A cameo does not automatically need a scene; a three-person conversation can still be overfull. Allocate enough room for the chosen experience before promising every introduction. A book's event deadline may justify an opening *length* exception; it never justifies delaying the death past Chapter 2 (gate 1).
 
@@ -115,4 +139,4 @@ These are planning decisions and review lenses, not compulsory questions to dram
 
 ## Where the rest lives
 
-Scene mechanics: `storygrid-commandments.md`. Register and the lead's presence: `light-energy-structure.md`. Revision questions: `cozy-revision-protocol.md`. Sentence-level final pass: `line-edit-protocol.md`. Book-specific rules (voice, spelling convention, jurisdiction, chapter format): the book's own style guide and foundation.
+Scene mechanics: `storygrid-commandments.md`. Register and the lead's presence: `light-energy-structure.md`. Revision questions: `cozy-revision-protocol.md`. Sentence-level final pass: `line-edit-protocol.md`. One-page version for briefs: `checklist.md`. Series- and book-specific rules (voice, spelling convention, jurisdiction, permitted profanity): the series style guide and the book's foundation.

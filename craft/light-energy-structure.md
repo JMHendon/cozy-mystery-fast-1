@@ -4,12 +4,12 @@ document: register-standard
 schema_version: craft.v3
 consumed_by: the register critic (its tests are the register, energy and lead-presence sections), planners (climax shape, B-story pattern), blind judges (the room-to-breathe axis)
 read_when: judging register drift in a draft; designing a new book's climax or B-story; adjudicating a comedy/gravity dispute; checking that the lead is still the lead
-status: v3.0, 2026-10-08 — rewritten as a genre standard for any cozy mystery. Adds "The lead owns the room"; wit restraints apply to the supporting cast and narrator, never as a ceiling on the lead.
+status: v3.1, 2026-10-08 — light-energy is the register of every cozy (gate 14). (v3.0: rewritten as a genre standard for any cozy mystery; adds "The lead owns the room.")
 ---
 
 # Register Standard — light-energy
 
-Light-energy is the house register for cozy mystery: warm, funny and fast, with real stakes. A book may declare a different register in its foundation (a quieter, more pastoral or more melancholy cozy). If it does, the tests below still apply, recalibrated to the declared register. The lead-presence section applies to every register.
+Light-energy is the register of every cozy mystery (gate 14): warm, funny and fast, with real stakes. A cozy is never as dark as a thriller or a police procedural. Books vary in how much of their light is comedy and how much is warmth, but none of them goes dark: no dread for its own sake, no lingering on suffering, no world revealed to be rotten. The lead-presence section applies to every book.
 
 ## The four constitutive properties
 

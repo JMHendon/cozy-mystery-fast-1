@@ -1,7 +1,7 @@
 ---
 layer: craft
 document: index
-status: v3.0, 2026-10-08 — the craft set rewritten as a genre standard for any cozy mystery; series- and book-specific material removed.
+status: v3.1, 2026-10-08 — sixteen hard gates; one-page checklist; prompt template. (v3.0: the craft set rewritten as a genre standard for any cozy mystery.)
 ---
 
 # Cozy Mystery Craft Documents — how to use this set
@@ -12,6 +12,7 @@ These documents are the house standard for planning, drafting, reviewing and edi
 
 | File | What it governs | Who runs it |
 |---|---|---|
+| `checklist.md` | One page: the gates, the lead rules and the review questions. Paste it into every planning, drafting and revision brief | Everyone, every brief |
 | `cozy-mystery.md` | The genre standard: the hard gates, the reader promise, the lead, commissioning and outline review | Planners, outline reviewers, every critic adjudicating "is this a cozy?" |
 | `storygrid-commandments.md` | Scene and sequence mechanics: the five commandments, cohesion, variation, obligatory scenes | Outliners and structural critics |
 | `light-energy-structure.md` | Register: delight, comedy, gravity, the lead's presence, the climax-and-coda shape | Register critics, planners |
@@ -30,6 +31,12 @@ When two sources disagree, the higher one wins. Nothing lower can waive anything
 
 Report every conflict you resolve this way rather than resolving it silently.
 
+To start a new book, use `Cozy Mystery/Prompt Template.md` in the `genre-fiction` repo.
+
+## What each series must supply
+
+- **Series style guide.** Spelling convention (US or UK, set by the series' location and author), jurisdiction and police procedure, permitted profanity if any, and the recurring cast's voices.
+
 ## What each book must supply before drafting
 
 These documents assume the book has its own short foundation. Keep it lean and get the author's approval before drafting.
@@ -44,5 +51,7 @@ These documents assume the book has its own short foundation. Keep it lean and g
 Do not import another book's or another series' foundation documents as working material. They are decisions for a different book, written as rules, and they leak.
 
 ## Version notes
+
+v3.1 (2026-10-08) expands the gates to sixteen in five groups (lead within three pages; foil no later than the chapter after commitment; five commandments, bite-sized chapters, variation, book length, the cozy contract and the series pull are gates), makes light-energy universal, and adds `checklist.md` and the prompt template.
 
 v3.0 (2026-10-08) consolidates the earlier series-specific set (craft v2.x, revision protocol v3.x, line edit v1.x). New in v3.0: the hard gates and the murder-timing rule; the order of authority; the lead owns the room; comp benchmarking; reader-panel limits; lead-presence and anti-sanding checks in revision and line editing.

@@ -4,7 +4,7 @@ document: scene-standard
 schema_version: craft.v3
 consumed_by: outliners and informed structural critics; never supply this standard to blind readers
 read_when: briefing chapters; mapping the global structure; judging whether a drafted chapter contains a scene; diagnosing a flat chapter
-status: v3.0, 2026-10-08 — rewritten as a genre standard for any cozy mystery. Adds the global structure map (the crime is the global inciting incident, Chapter 1 or 2); series-specific references removed.
+status: v3.1, 2026-10-08 — gate references updated to the sixteen-gate set; five commandments, bite-sized chapters and variation are gates. (v3.0: rewritten as a genre standard for any cozy mystery; adds the global structure map.)
 ---
 
 # Scene Standard — how a scene earns its place
@@ -14,17 +14,17 @@ status: v3.0, 2026-10-08 — rewritten as a genre standard for any cozy mystery.
 Map the whole book before mapping its chapters. Name the five commandments of the global story and of each act (Beginning Hook, Middle Build, Ending Payoff; split the Middle Build at the midpoint where useful), with the chapter and percentage of the book for each.
 
 - **The global inciting incident is the crime,** on the page in Chapter 1 or 2 (`cozy-mystery.md`, gate 1). It is also the inciting incident of the Beginning Hook. Never relabel an earlier hook (an arrival, a wager, a threat, a challenge) as the global inciting incident to justify a later crime, and never place the death as the Beginning Hook's turning point, crisis or climax.
-- **The Beginning Hook's turning point and crisis** typically make the case personal or force the sleuth's commitment (gate 3, by Chapter 3), with the official foil on the page (gate 4).
+- **The Beginning Hook's turning point and crisis** typically make the case personal or force the sleuth's commitment (gate 3, by Chapter 3), with the official foil on the page no later than the following chapter (gate 4).
 - **The Middle Build** carries the survey of suspects, the honest herrings and a midpoint that reverses the sleuth's understanding.
 - **The Ending Payoff** carries the click, the confrontation in motion and the restoration.
 
 Every structural audit reports the chapter and percentage of: the death, the sleuth's commitment, the foil's entrance, the last suspect's entrance, the midpoint, the click, the global crisis and the climax. A death after Chapter 2 without the author's written approval is reported first as a structural failure, whatever the other grades.
 
-## The floor — name the dramatic unit before testing it
+## The floor — name the dramatic unit before testing it (gate 6)
 
 For a complete dramatic scene or sequence, explicitly identify the **inciting incident**, **progressive complications and turning point**, **crisis**, **climax** and **resolution**. Complications must alter the person's options or stakes, not merely add information. A crisis poses genuinely incompatible courses of action with meaningful stakes — best bad choice or irreconcilable goods. The climax answers it through an enacted choice; the resolution registers the resulting state.
 
-A chapter is a reading unit; a scene is a dramatic unit; a sequence joins related dramatic movements. Apply the scene/length default and reasoned-exception policy in `cozy-mystery.md`, “Bite-sized chapters.” A chapter may deliberately interrupt an unresolved scene, but do not make incomplete fragments the norm merely to hit a length target. Map the five elements at their actual scale and mark absent elements **incomplete at this unit**, identifying where the developing sequence carries them. Do not mark an incomplete scene complete by renaming surprise as choice. At sequence review, verify that the promised decision and resulting change actually occur; do not keep deferring a missing crisis indefinitely.
+A chapter is a reading unit; a scene is a dramatic unit; a sequence joins related dramatic movements. In a cozy the two coincide: each chapter is one scene (gate 7; `cozy-mystery.md`, “Bite-sized chapters”). A chapter may deliberately interrupt an unresolved scene, but do not make incomplete fragments the norm merely to hit a length target. Map the five elements at their actual scale and mark absent elements **incomplete at this unit**, identifying where the developing sequence carries them. Do not mark an incomplete scene complete by renaming surprise as choice. At sequence review, verify that the promised decision and resulting change actually occur; do not keep deferring a missing crisis indefinitely.
 
 **Count dramatic resets, not doorways or asterisks.** Follow the immediate pursuit, opposition and resulting change. Continuing the same live negotiation in another room need not start a scene; finishing one visit and beginning a different encounter usually does. A short bridge may connect scenes without becoming a separate one. Several encounters sharing the general purpose “get to know the house” are not automatically one scene. Conversely, an ordinary digression or change of tactic within an encounter is not automatically a new scene. When separating chapters, preserve causal continuity and end on a turn or forward pull the story actually earns.
 
@@ -48,7 +48,7 @@ Shared location, continuous time and a common topic do not prevent resets. Delet
 
 **Verify the experience.** Report the opening expectation, the encounters that develop it, any point of reset and what the ending answers, interrupts or newly makes important. A retrospective five-commandment map is not evidence that readers experienced the movement. Keep scene/sequence mechanics explicit, but test them against the prose and unprimed readers.
 
-## Variation — no two consecutive units in the same configuration
+## Variation — no two consecutive units in the same configuration (gate 8)
 
 Consecutive scenes, and consecutive chapters, must differ in **place**, in **who is
 present**, and in **scale** (one-to-one, small group, full room). Changing one axis
@@ -93,7 +93,7 @@ Plan the intervening experience where the event warrants one: a compelling excha
 
 ## The obligatory scenes (cozy)
 
-Inciting crime **(Chapter 1 or 2 — gate 1)** · investigation committed to **(by Chapter 3 — gate 3)** · the official foil engaged **(by Chapter 3 — gate 4)** · survey of suspects **(all on the page by ~25% — gate 5)** · at least two herrings honestly pursued and dismissed · the click (reader and sleuth arrive together) · the confrontation (in motion) · the reveal/confession (motive made legible, tragic) · restoration (real, with one visible cost). The book's outline places them; where a gate fixes a placement, the gate governs.
+Inciting crime **(Chapter 1 or 2 — gate 1)** · investigation committed to **(by Chapter 3 — gate 3)** · the official foil engaged **(no later than the chapter after commitment — gate 4)** · survey of suspects **(all on the page by ~25% — gate 5)** · at least two herrings honestly pursued and dismissed · the click (reader and sleuth arrive together) · the confrontation (in motion) · the reveal/confession (motive made legible, tragic) · restoration (real, with one visible cost). The book's outline places them; where a gate fixes a placement, the gate governs.
 
 See "The global structure" above: the inciting crime is the global inciting incident, and its placement is fixed.
 
