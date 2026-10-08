@@ -13,11 +13,11 @@ Archie Fairweather is the most famous magician in the world — the man who walk
 
 He reappeared in Merrow, Maine (pop. 1,900), in his late grandfather's crumbling, trapdoor-riddled Victorian, having promised his sixteen-year-old daughter June one thing: a normal year in a normal town. Two months in, he has bought the town's derelict 1899 opera house, is restoring it with his own hands for a Halloween tribute show to his grandfather — the Great Fairweather, who vanished from Merrow Harbor on Halloween night 1988 — and is the most delighted, least normal man in Maine.
 
-Then Lorelei Crane arrives: America's most beloved TV medium, in town to film a Halloween séance in Archie's opera house and contact the ghost of the Great Fairweather himself. Archie, the world's most famous debunker of psychics, makes her a public wager: a million dollars to her charity if a single phenomenon at her séance survives his scrutiny. Lorelei accepts — and then, upside down in his straitjacket, tells him something about his grandfather's locked trunk that nobody should know.
+Then Lorelei Crane arrives: America's most beloved TV medium, in town to film a Halloween séance in Archie's opera house and contact the ghost of the Great Fairweather himself. Archie, the world's most famous debunker of psychics, makes her a public wager: a million dollars to her charity — she raises it to two — if a single phenomenon at her séance survives his scrutiny. Lorelei accepts — and then, upside down in his straitjacket, tells him something about his grandfather's locked trunk that nobody should know.
 
 At the séance, in perfect darkness, with every hand in the circle held, the spirit trumpet floats, a dead lobsterman tells his widow the water is warm, and the Great Fairweather's voice calls Archie by a childhood name he'd forgotten — and then the voice chokes, the trumpet falls, and Lorelei Crane is dying.
 
-Everyone swears no one let go. Archie knows better. The only person in that circle who let go was the victim.
+Everyone swears no one let go. Archie knows better: two people in that circle let go — and only one of them put her mouth on the trumpet. The victim.
 
 ## The reader promise
 
@@ -53,7 +53,7 @@ The mystery rhymes with it: the killer was the one person nobody looks at in a t
 
 4. **Climax.** June makes the choice with him: *Go.* She takes the stage alone. Archie, Tess and the harbormaster run Hollis down in the fog past the bell buoy. Archie talks to her with no trick at all — and when she goes into the October water he goes in after her, on the strength of nine hundred water-tank escapes and a body that is forty-seven years old. Hollis confesses, wrapped in a harbor blanket. Then — the rhyme — June pulls the sheet from the Empty Chair, and her father is sitting in it, soaking wet. The audience thinks it's the trick. June knows it isn't.
 
-5. **Resolution.** Ivy walks free and chooses to tell the truth about her mother's act. Shannon grieves honestly. Warren gets an apology that doesn't fix everything. The opera house is open. Archie visits Hollis once. Tess tells him he once wrote her a letter. And at home, June opens the Great Fairweather's unopenable trunk with the childhood name a fake medium dredged out of an old newspaper — and inside is a postcard in Gus's hand, postmarked eight years after he drowned.
+5. **Resolution.** Ivy walks free and chooses to tell the truth about her mother's act. Shannon grieves honestly. Warren gets an apology that doesn't fix everything. The opera house is open. Archie visits Hollis once. Tess fastens his grandfather's watch back on his wrist and tells him not to tell anyone — words he once wrote to her, which he doesn't remember. And at home, June opens the Great Fairweather's unopenable trunk with the childhood name a fake medium dredged out of an old newspaper — and inside is a postcard in Gus's hand, postmarked eight years after he drowned.
 
 ## The rhyme
 
@@ -61,4 +61,4 @@ At the séance, a fraud fills an empty chair with a dead man's voice and it kill
 
 ## Series engine
 
-Archie becomes Maine State Police Major Crimes' unofficial, unwanted, indispensable consultant on impossible crimes — every book an "impossible" murder whose method a magician can see. Long arcs: (1) the Great Fairweather's 1988 vanishing — the postcard proves he was alive in 1996 and came back into his own house; Tess's father, then a young officer, closed the case; (2) Archie and Tess, slow burn — she solved one of his tricks at twelve and he wrote back; (3) June growing into a magician on her own terms; (4) Archie learning to stay.
+Archie becomes Maine State Police Major Crimes' unofficial, unwanted, indispensable consultant on impossible crimes — every book an "impossible" murder whose method a magician can see. Long arcs: (1) the Great Fairweather's 1988 vanishing — the postcard proves he was alive in 1996 and came back into his own house; Tess's father, then Merrow's chief, closed the case; (2) Archie and Tess, slow burn — she solved one of his tricks at twelve and he wrote back; (3) June growing into a magician on her own terms; (4) Archie learning to stay.
