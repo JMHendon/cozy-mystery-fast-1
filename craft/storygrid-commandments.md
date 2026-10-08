@@ -4,7 +4,7 @@ document: scene-standard
 schema_version: craft.v2
 consumed_by: outliners and informed structural critics; never supply this standard to blind readers
 read_when: briefing chapters; judging whether a drafted chapter contains a scene; diagnosing a flat chapter
-status: v2.6, 2026-09-26 — adds the reused-events test and the retelling form of the interview chain; relocation no longer implied to make an interview a scene. (v2.5, 2026-09-24: variation rule.)
+status: v2.7, 2026-10-08 — the inciting crime is the global inciting incident and lands in Chapter 1 or 2. (v2.6, 2026-09-26: adds the reused-events test and the retelling form of the interview chain; relocation no longer implied to make an interview a scene.) (v2.5, 2026-09-24: variation rule.)
 ---
 
 # Scene Standard — how a scene earns its place
@@ -82,7 +82,9 @@ Plan the intervening experience where the event warrants one: a compelling excha
 
 ## The obligatory scenes (cozy)
 
-Inciting crime · investigation committed to · survey of suspects · at least two herrings honestly pursued and dismissed · the click (reader and sleuth arrive together) · the confrontation (in motion) · the reveal/confession (motive made legible, tragic) · restoration (real, with one visible cost). The book bible places them; this file only requires they exist.
+Inciting crime **(Chapter 1 or 2 — `cozy-mystery.md`, non-negotiable 2)** · investigation committed to · survey of suspects · at least two herrings honestly pursued and dismissed · the click (reader and sleuth arrive together) · the confrontation (in motion) · the reveal/confession (motive made legible, tragic) · restoration (real, with one visible cost). The book bible places them; this file only requires they exist — except the inciting crime, whose placement is fixed.
+
+**The inciting crime is the global inciting incident.** In a cozy the death is the inciting incident of the Beginning Hook and of the whole book. Do not relabel an earlier hook (an arrival, a wager, a threat, a challenge) as the global inciting incident to justify a later crime, and do not place the death as the Beginning Hook's turning point, crisis or climax. Every structural audit states the chapter and the percentage of the book at which the death is on the page; a death after Chapter 2 without the author's written approval is a structural failure reported first, whatever the other grades, and no strength elsewhere offsets it.
 
 ## The parallel internal genre
 

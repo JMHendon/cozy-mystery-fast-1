@@ -4,7 +4,7 @@ document: revision-checklist
 schema_version: revision-protocol.v3
 consumed_by: the reviser (human or agent) — this is the one craft document that is actively RUN against drafts; also the showrunner, as a read-through frame
 read_when: after a chapter or act drafts clean on continuity; before line edits
-status: v3.10, 2026-09-26 — Q1 judges the principal encounter apart from its exit; Q19 flags cards that prescribe monotony; the blind read and cumulative checks get the preceding accepted chapter. No new stage or scoring gate. (v3.9, 2026-09-24: variation check.)
+status: v3.11, 2026-10-08 — murder-timing check: a death after Chapter 2 is reported first as a plan defect and never offset. (v3.10, 2026-09-26: Q1 judges the principal encounter apart from its exit; Q19 flags cards that prescribe monotony; the blind read and cumulative checks get the preceding accepted chapter. No new stage or scoring gate.) (v3.9, 2026-09-24: variation check.)
 ---
 
 # Revision Protocol — the pipeline, then the questions
@@ -23,6 +23,8 @@ status: v3.10, 2026-09-26 — Q1 judges the principal encounter apart from its e
 Cutting rule at every stage: **consider removing a dispensable beat before thinning every good passage** (#28). Preserve or relocate a necessary story function and record that move in `chapter-briefs.md`; do not re-home business the book no longer needs. Several functions do not automatically justify a long scene: a technical repair plus a joke plus a competence demonstration may still repeat what the chapter has already established.
 
 **Character check before revising an encounter:** use the actual cards, not a remembered adjective or an unlabelled voice-bank peak. Quote any action, work habit, permission request, concession or change of intimacy that contradicts the character's default in this situation. State what event, if any, earns the exception. Read the entire local negotiation: a shortened reply must not acquiesce to a demand the character would first try to evade. The critic must not repair structure by replacing the people. This is part of the existing passes, not a new stage.
+
+**Murder-timing check (every outline review and every structural pass):** state the chapter in which the death is on the page. If it is later than Chapter 2 without the author's written approval (`cozy-mystery.md`, non-negotiable 2), report it at the top of the review, ahead of every other finding, as a plan defect, and propose a restructure: open on the day of the death, move the scheduled event forward, or fold the setup into the investigation. Do not offset it with strong complications, charming setup, reader scores or an added "jolt", and do not accept a market-percentage benchmark in place of the chapter rule. A reviewer who finds this defect accepted by an earlier stage reports it again rather than deferring.
 
 **Constraint check before revision:** distinguish invariant canon, causal evidence and knowledge limits from dramatic functions and optional execution (`cozy-mystery.md`, "Commissioning a book"). Do not preserve repeated clue business while trimming the event's human interest because the former is easier to tick off. Keep the necessary fact; change how it enters when the scene improves. Reconcile consequential changes with the brief and downstream chapters. Voice samples demonstrate a range, not required exchanges, and examples in a brief are not hidden locks.
 
