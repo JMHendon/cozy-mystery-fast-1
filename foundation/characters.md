@@ -52,7 +52,7 @@ Ages as of October, Book 1. Present day, year unstated. Halloween is a Friday.
 
 ## TESS CALLOWAY — the partner and procedural foil (full presence; romance slow-burn)
 
-**Detective Sergeant Theresa "Tess" Calloway, 38.** Maine State Police, Major Crimes Unit (Midcoast). Grew up in Merrow; her father Walt was Merrow's police chief for thirty-two years. Mother left when Tess was nine. Divorced (briefly married to a Portland lawyer; "he argued with the weather"). Moved back to Merrow eighteen months ago when her father went into memory care; lives in her father's old house on Pound Hill, which she is renovating one weekend at a time and badly.
+**Detective Sergeant Theresa "Tess" Calloway, 38.** Maine State Police, Major Crimes Unit (Midcoast). Grew up in Merrow; her father Walt was Merrow's police chief for twenty-nine years. Mother left when Tess was nine. Divorced (briefly married to a Portland lawyer; "he argued with the weather"). Moved back to Merrow eighteen months ago when her father went into memory care; lives in her father's old house on Pound Hill, which she is renovating one weekend at a time and badly.
 
 **Look.** Five-seven, a runner's build, dark-blonde hair in a braid that is a professional decision. Gray eyes that do most of her talking. Navy MSP fleece or a charcoal wool coat, jeans, good boots, no jewelry except a plain steel watch. Drives an unmarked gray Ford Interceptor and parks it exactly between the lines.
 
