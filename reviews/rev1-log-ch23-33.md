@@ -128,3 +128,10 @@ The total is about 370 words over the 19,200 target. The letter-mandated additio
   - Kev is never cleared in my range; Archie means to ask him, and the Ch 27 witness warning blocks it.
   - In Ch 27, Archie refused to name anyone to Brannock.
   - The Ch 31 cue question was asked later, at 8:15, after Rosie left.
+
+## Showrunner note #2: verification
+I checked my chapters against revised Ch 17, 19 and 22. No further edits were needed.
+- Ch 32's memory ("piano crowded with photographs… *Danny. My son.*… handed him a velvet waistcoat over the cat's head") matches revised Ch 17. There is no costume rack and no man in oilskins.
+- Ch 33 has no recall of the turned-over bed. Bev's cloth is folded "into a square," so Warren's napkin in Ch 19 is the only "in half again."
+- In Ch 24, Archie knows the exact *Packet* source from Ivy's binder and refuses because of it.
+- No "stagehand" callback to Ch 22 is left in Ch 23–33. The only "stagehands" are the Glass Box crew in Ch 25.
