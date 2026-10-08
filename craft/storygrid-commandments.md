@@ -1,13 +1,24 @@
 ---
 layer: craft
 document: scene-standard
-schema_version: craft.v2
+schema_version: craft.v3
 consumed_by: outliners and informed structural critics; never supply this standard to blind readers
-read_when: briefing chapters; judging whether a drafted chapter contains a scene; diagnosing a flat chapter
-status: v2.7, 2026-10-08 — the inciting crime is the global inciting incident and lands in Chapter 1 or 2. (v2.6, 2026-09-26: adds the reused-events test and the retelling form of the interview chain; relocation no longer implied to make an interview a scene.) (v2.5, 2026-09-24: variation rule.)
+read_when: briefing chapters; mapping the global structure; judging whether a drafted chapter contains a scene; diagnosing a flat chapter
+status: v3.0, 2026-10-08 — rewritten as a genre standard for any cozy mystery. Adds the global structure map (the crime is the global inciting incident, Chapter 1 or 2); series-specific references removed.
 ---
 
 # Scene Standard — how a scene earns its place
+
+## The global structure — the crime opens the book
+
+Map the whole book before mapping its chapters. Name the five commandments of the global story and of each act (Beginning Hook, Middle Build, Ending Payoff; split the Middle Build at the midpoint where useful), with the chapter and percentage of the book for each.
+
+- **The global inciting incident is the crime,** on the page in Chapter 1 or 2 (`cozy-mystery.md`, gate 1). It is also the inciting incident of the Beginning Hook. Never relabel an earlier hook (an arrival, a wager, a threat, a challenge) as the global inciting incident to justify a later crime, and never place the death as the Beginning Hook's turning point, crisis or climax.
+- **The Beginning Hook's turning point and crisis** typically make the case personal or force the sleuth's commitment (gate 3, by Chapter 3), with the official foil on the page (gate 4).
+- **The Middle Build** carries the survey of suspects, the honest herrings and a midpoint that reverses the sleuth's understanding.
+- **The Ending Payoff** carries the click, the confrontation in motion and the restoration.
+
+Every structural audit reports the chapter and percentage of: the death, the sleuth's commitment, the foil's entrance, the last suspect's entrance, the midpoint, the click, the global crisis and the climax. A death after Chapter 2 without the author's written approval is reported first as a structural failure, whatever the other grades.
 
 ## The floor — name the dramatic unit before testing it
 
@@ -66,7 +77,7 @@ this is checked.
 
 ## The polarity test (the scene-end gate)
 
-Name the principal value at stake (for example trust/betrayal, freedom/constraint, belonging/exclusion or justice/injustice), its position at the start and its position at the end. Give evidence from the scene, not merely the brief's label. If there is no turn, decide whether this is useful connective or experiential material within a larger movement, or a genuinely flat dramatic unit. Pre-crime scenes need not turn on justice. More reversals are not automatically better; secondary values may move without displacing the scene's central pressure.
+Name the principal value at stake (for example trust/betrayal, freedom/constraint, belonging/exclusion or justice/injustice), its position at the start and its position at the end. Give evidence from the scene, not merely the brief's label. If there is no turn, decide whether this is useful connective or experiential material within a larger movement, or a genuinely flat dramatic unit. A Chapter 1 scene before the death need not turn on justice. More reversals are not automatically better; secondary values may move without displacing the scene's central pressure.
 
 ## Complications made by people
 
@@ -82,13 +93,13 @@ Plan the intervening experience where the event warrants one: a compelling excha
 
 ## The obligatory scenes (cozy)
 
-Inciting crime **(Chapter 1 or 2 — `cozy-mystery.md`, non-negotiable 2)** · investigation committed to · survey of suspects · at least two herrings honestly pursued and dismissed · the click (reader and sleuth arrive together) · the confrontation (in motion) · the reveal/confession (motive made legible, tragic) · restoration (real, with one visible cost). The book bible places them; this file only requires they exist — except the inciting crime, whose placement is fixed.
+Inciting crime **(Chapter 1 or 2 — gate 1)** · investigation committed to **(by Chapter 3 — gate 3)** · the official foil engaged **(by Chapter 3 — gate 4)** · survey of suspects **(all on the page by ~25% — gate 5)** · at least two herrings honestly pursued and dismissed · the click (reader and sleuth arrive together) · the confrontation (in motion) · the reveal/confession (motive made legible, tragic) · restoration (real, with one visible cost). The book's outline places them; where a gate fixes a placement, the gate governs.
 
-**The inciting crime is the global inciting incident.** In a cozy the death is the inciting incident of the Beginning Hook and of the whole book. Do not relabel an earlier hook (an arrival, a wager, a threat, a challenge) as the global inciting incident to justify a later crime, and do not place the death as the Beginning Hook's turning point, crisis or climax. Every structural audit states the chapter and the percentage of the book at which the death is on the page; a death after Chapter 2 without the author's written approval is a structural failure reported first, whatever the other grades, and no strength elsewhere offsets it.
+See "The global structure" above: the inciting crime is the global inciting incident, and its placement is fixed.
 
 ## The parallel internal genre
 
-Every book runs a worldview arc under the external mystery (this series: the wound sequence — see `Series Documents/penn-mysteries.md`). Review its development across the book and its relationship to the external climax; do not require a wound beat, introspective pause or lesson in every chapter. Pleasure and ordinary work can occupy the foreground. Protect established disclosure order and earned development without turning every encounter into a rehearsal for emotional resolution.
+Every book runs an internal arc under the external mystery, named in the book's foundation (for example a worldview, status or morality arc). Review its development across the book and its relationship to the external climax; do not require a wound beat, introspective pause or lesson in every chapter. Pleasure and ordinary work can occupy the foreground. Protect established disclosure order and earned development without turning every encounter into a rehearsal for emotional resolution. The internal arc may cost the lead something; it never shrinks the lead's essential nature (`cozy-mystery.md`, "The lead").
 
 ## Scene anti-patterns (the dramaturgy critic's list)
 
@@ -100,6 +111,8 @@ Every book runs a worldview arc under the external mystery (this series: the wou
 6. Competing focal pressures with no hierarchy; nothing receives enough development to turn.
 7. Escalation mistaken for a completed choice — a revelation is falsely labelled the climax of a resolved dramatic unit.
 8. Resolution without agency — the world capitulates; the protagonist merely attends. An interruption may leave the choice unresolved, but the sequence must eventually confront it.
-9. *(Series addition)* The interview chain — a "scene" that is one competent extraction of information; see the group-scene engine on the lead's card. Its commonest form is the retelling: an aftermath interview or debrief that walks back through events the reader watched, one subject at a time. It starts in the brief — a Development listing topics and a counterpart defined by what they refuse — so diagnose it there.
-10. *(Series addition)* The summarised set-piece — the text claims an event was absorbing, moving or entertaining, while rendering only its logistical preparation. Play the human interaction that earns the experience; compress routine intervals, not the reason the event matters.
+9. The interview chain — a "scene" that is one competent extraction of information. Give the lead a group-scene engine (a public game, demonstration or challenge the room must join, resist or heckle) and a collision with each witness's own want. Its commonest form is the retelling: an aftermath interview or debrief that walks back through events the reader watched, one subject at a time. It starts in the brief — a Development listing topics and a counterpart defined by what they refuse — so diagnose it there.
+10. The summarised set-piece — the text claims an event was absorbing, moving or entertaining, while rendering only its logistical preparation. Play the human interaction that earns the experience; compress routine intervals, not the reason the event matters.
 11. The chapter as a container for a whole itinerary — successive introductions or encounters keep restarting the reader, with no dominant dramatic movement. Recompose the chapter units rather than stripping description and banter, hiding scene breaks or inventing miniature crises to make each stop qualify.
+12. The slow fuse — chapters of arrival, introductions or anticipation before the body. A gate 1 failure: restructure the plan, don't trim the prose.
+13. The relabelled inciting incident — an audit that names a pre-crime hook as the global inciting incident to excuse a late crime.
