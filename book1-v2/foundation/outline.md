@@ -173,7 +173,7 @@ Format: **Pursuit** (what Archie is after) · **Counterpressure** (whose positiv
 - **5C:** II June's question: "Are you going to make this a show?" / TP June lays out the case against him; then the vase / Crisis: promise June he'll stay out (and lie, which he can't do to her) or tell her the truth that he can't leave it / Climax: the truth, plainly, and a deal: no cameras, no show, and she hears everything first, from him, not from television / Resolution: June: "Okay." (and a condition: not the hearse to school). Archie climbs to the turret and dials seven letters on the trunk, the way he has every night since August.
 - **Value:** Archie bystander → committed investigator. June: shut out → conditional partner.
 - **Facts:** the trunk (seven brass letter-dials; *To be opened when I'm gone*); Archie's failures notebook; Bev's thermos is on the counter, cups nested, to go back to the Galley in the morning; Tess's card from the hospital; Tess replies to the vase text: "Don't touch it." Kev's channel is called *Spectral Kev*.
-- **Exit:** Archie at the trunk tries S-P-I-R-I-T (*optional*); nothing. "Who's Sparrow?" he asks the room. The house doesn't answer.
+- **Exit:** Archie at the trunk starts to dial S-P-A and stops: if a medium's word opens Gus's trunk, she was real, and he has spent nineteen years saying that never happens. He refuses ("Not from you"), tries another word, logs the failure. "Who's Sparrow?" he asks the room. (This refusal is load-bearing: it keeps the trunk shut until Ch 41 proves Lorelei got the word from a 1988 newspaper, not the spirits.)
 - **Variation:** hospital → home; Tess/Ivy/Teddy/Rao → June/Vivienne/Lenny; small group (strangers) → family. ✓
 
 ### Ch 4 — There's No Third Pie
