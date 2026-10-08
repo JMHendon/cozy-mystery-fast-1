@@ -350,7 +350,7 @@ He'd expected his mother to look shaken. Instead she looked amused, and very sli
 
 Archie looked at the trunk. Of course. The most powerful thing a cold reader can say is something that sounds private and is actually public. He had explained it on national television; he had a whole routine about it. He felt his shoulders come down an inch.
 
-Then he thought of her tilting her head to listen to the air beside his ear, and they went back up.
+Then he remembered her tilting her head to listen to the air beside his ear, and they went back up.
 
 "She said I was looking in the wrong place," he said.
 
@@ -370,7 +370,7 @@ At five minutes past one in the morning, because he was tired and because it was
 
 Nothing.
 
-He sat back against the desk, oddly relieved, and thought about a dark red smile, and a ringed hand laid against his chest, and a voice saying, gently, that he was looking in the wrong place.
+He sat back against the desk, oddly relieved, and saw again a dark red smile, and a ringed hand laid against his chest, and heard a voice saying, gently, that he was looking in the wrong place.
 
 
 ---
@@ -495,7 +495,7 @@ Shannon had walked all the way to the end of the wharf, where it stopped above t
 
 He stopped now, a few feet behind her, and read it.
 
-The oldest names, at the top, were weathered almost smooth; one line near the top was a whole family. Farther down the letters were sharper. *Arthur Coombs, 1978. Robert and James Haskell, 1991. Peter Langley, 2003. Dennis Pinkham, 2012.* And at the bottom, alone, a name cut so recently that the granite inside the letters was still pale and new, like a scrape on a knee.
+The oldest names, at the top, were weathered almost smooth; one line near the top was a whole family. Farther down the letters were sharper. *Arthur Coombs. Robert and James Haskell. Peter Langley. Dennis Pinkham.* And at the bottom, alone, a name cut so recently that the granite inside the letters was still pale and new, like a scrape on a knee.
 
 *THOMAS MAYO.*
 
@@ -1037,7 +1037,7 @@ It was a quarter to seven on Saturday night, and she was standing at the top of 
 
 "Unlocked how?"
 
-"Unlocked the way a door is when somebody doesn't lock it." She lowered her voice, which for Hollis meant that only half the hall could hear. "I lent Warren my key yesterday afternoon. He wanted to inventory the posters and old fixtures for the closing. He swears up and down he locked it after." She looked at Archie over her glasses. "Nothing's missing that I can see. But I can't see everything."
+"Unlocked the way a door is when somebody doesn't lock it." She lowered her voice, which for Hollis meant that only half the hall could hear. "I lent Warren my key yesterday afternoon. He wanted to inventory the posters and old fixtures for the closing. He swears up and down he locked it after. Nothing's missing that I can see. But I can't see everything."
 
 "Did you tell anyone?"
 
@@ -1236,7 +1236,7 @@ It rang softly at first, a single silver note, and then again, and then it was m
 
 *Somebody has a hand free,* he thought. *Two hands, probably. One of them is hers.*
 
-He could feel the circle all the way around through his own two hands — his mother's dry, cool fingers gripping hard on his left; Kev's hot, damp ones on his right. He couldn't feel past them. Nobody could. That was the beauty of the circle. Everybody was absolutely certain of the two hands they held, and nobody knew a thing about anybody else's.
+He could feel the circle all the way around through his own two hands — his mother's dry, cool fingers gripping hard on his right; Kev's hot, damp ones on his left. He couldn't feel past them. Nobody could. That was the beauty of the circle. Everybody was absolutely certain of the two hands they held, and nobody knew a thing about anybody else's.
 
 The bell dropped to the table with a clank. Something cold and wet and soft brushed across Archie's forehead and was gone.
 
@@ -1415,7 +1415,7 @@ He'd told himself in the car he wasn't going to ask. He asked anyway, quietly.
 
 "Ivy. In the dark. Was your mother holding your hand the whole time?"
 
-Ivy turned and looked at him for the first time since the opera house. Her eyes were dry and pale and absolutely empty.
+Ivy turned and looked at him. Her eyes were dry and pale and absolutely empty.
 
 "She held my hand," she said.
 
@@ -1849,7 +1849,7 @@ Tess wrote. Archie had stopped listening.
 
 "You said Warren Gilley in a voice."
 
-Hollis looked at Archie over her glasses as if he'd read the first chapter and announced how the book ended, and went back into the wing.
+Hollis gave Archie the look she kept for students who read the first chapter and announced how the book ended, and went back into the wing.
 
 Archie walked to the lip of the stage and stood with his back to them, winding Gus's old steel watch in small turns between finger and thumb, and ran the end of the séance again.
 
@@ -2083,7 +2083,7 @@ She went down. Archie put on his coat, which was still warm from the room and sm
 
 Shannon Mayo lived in a small gray-shingled house on the lane behind the lobster co-op, close enough to the water that the dooryard smelled of bait. There were traps stacked four high along the fence, green wire, with a buoy color Archie had seen on the stern of a boat called *Rosie & Liam* — yellow over blue. Nobody had sold them. On the front step sat a pumpkin carved by someone about seven years old, with a great deal of enthusiasm and no fear of triangles.
 
-It was four o'clock, and the sun was already low over the harbor, laying long yellow light across the street. Archie stood on the step in his own coat with his hands in the pockets. He had thought about bringing something — flowers, a pie — and decided you didn't bring a present to say you were sorry. Now he was here with nothing in his hands, and his hands didn't like it.
+It was four o'clock, and the sun was already low over the harbor, laying long yellow light across the street. Archie stood on the step in his own coat with his hands in the pockets. He had considered bringing something — flowers, a pie — and decided you didn't bring a present to say you were sorry. Now he was here with nothing in his hands, and his hands didn't like it.
 
 He knocked.
 
@@ -2207,7 +2207,7 @@ After a minute the door opened again, and Hollis came out onto the step, pulling
 
 "Hollis, I didn't mean—"
 
-"I know you didn't." She looked up at him over her glasses. "She'll forgive you, you know. She was always a good girl." She considered it. "Not this week, though. Possibly not this month. Go home, Archie, and eat something."
+"I know you didn't." She looked up at him. "She'll forgive you, you know. She was always a good girl." She considered it. "Not this week, though. Possibly not this month. Go home, Archie, and eat something."
 
 She went down the path to her car. Upstairs, behind a lit window, the children were laughing about something. Archie listened until they stopped, and then he went home.
 
@@ -2521,7 +2521,7 @@ Archie was so pleased he could have sung. It lasted until they cleared the ledge
 
 Dale opened the throttle and took them out past the end of the ledge, where the harbor stopped being a harbor. The swell came in under the boat — long and slow and gray, nothing much, Dale said afterward; you'd hardly call it a sea. *Second Wind* lifted her bow and lay over a little and came back, and lifted, and lay over. The diesel fumes rolled back over the stern. The bait box breathed.
 
-Archie had escaped from a safe at the bottom of Lake Tahoe. He had held his breath for four minutes in a water tank on live television.
+Archie had made a whole career out of not drowning.
 
 He lasted about six minutes.
 
@@ -2581,7 +2581,7 @@ Somewhere off to the east, the green boat's hauler whined.
 
 Archie looked down into his coffee. "Thank you."
 
-"Lieutenant Brannock's down from Augusta. He's setting up in the select board room. He wants you in at two o'clock this afternoon." Dale turned his head and looked at Archie properly for the first time since the phone rang. "Bring a lawyer."
+"Lieutenant Brannock's down from Augusta. He's setting up in the select board room. He wants you in at two o'clock this afternoon." Dale turned his head and looked straight at Archie. "Bring a lawyer."
 
 "I don't need a lawyer, Dale. I haven't done anything. I'll go in and explain about the trumpet and—"
 
@@ -2614,7 +2614,7 @@ Archie sat. The folding chair was so cold he could feel it through his trousers.
 
 "Yes."
 
-Brannock sniffed. He looked up over his glasses. "Have you been fishing?"
+Brannock sniffed. He looked up. "Have you been fishing?"
 
 "Hauling. With Chief Pinkham. This morning." Archie had showered twice. The coat had not. "It's herring. I'm told it doesn't come out."
 
@@ -2821,7 +2821,7 @@ He said it. He hadn't meant to say all of it, but the kitchen was warm and the c
 
 When he'd finished, she made him put the cat on the floor, which Malvolio took as a betrayal of the first order, and marched him into the front room.
 
-She had pulled three things for him and hung them on the back of the door. He tried on eleven. A fez. Puss in Boots's one boot, which made Hollis bark — the short, sharp note that was her laugh — without looking up from the tailcoat she was letting out. Felt horns and a pitchfork from a *Faust* nobody in Merrow would admit to having seen. He was in front of the long mirror in a striped convict suit from some melodrama, holding the number board under his chin, when he stopped clowning and looked at himself.
+She had pulled three things for him and hung them on the back of the door. He tried on eleven. A fez. Puss in Boots's one boot, which made Hollis laugh without looking up from the tailcoat she was letting out. Felt horns and a pitchfork from a *Faust* nobody in Merrow would admit to having seen. He was in front of the long mirror in a striped convict suit from some melodrama, holding the number board under his chin, when he stopped clowning and looked at himself.
 
 "The lieutenant would like me in this," he said.
 
@@ -2835,7 +2835,7 @@ She had pulled three things for him and hung them on the back of the door. He tr
 
 "It isn't one, or they'd have to put a fence around Las Vegas." She bit off a thread. "That man sat in my booth this morning with a Dunkin' cup the size of a fire extinguisher and asked me to explain the dimmer board to him slowly. So I explained it slowly, twice, and told him there'd be a quiz on Friday." She held the tailcoat up to the lamp. "Archie Fairweather, I spent thirty-five years in a classroom watching people decide what they were going to be. I can spot a fool across a gymnasium with the lights off. You're not one. You're a show-off, which is a different thing entirely, and it isn't fatal."
 
-He stood there in the convict trousers with his mouth open, grinning for the first time all day.
+He stood there in the convict trousers with his mouth open, and found he was grinning.
 
 "Is that your professional assessment?"
 
@@ -3085,7 +3085,7 @@ He did it carefully, laying it across the rim of the plate at an angle, tines do
 
 "Carol," he said.
 
-He said it to the counter. Then he turned his head and looked at Archie for the first time that morning, and his face wasn't white or pink or anything Archie had a word for. It was only tired.
+He said it to the counter. Then he turned his head and looked at Archie, and his face wasn't white or pink. It was only tired.
 
 "She told me Carol understood. About the pictures. She said Carol wanted me to know she wasn't angry." He said it quite clearly; everyone could hear. "My wife isn't dead, Mr. Fairweather. She's up the hill at Sea View. You've met her. You do your card tricks for her on Fridays. Marisol tells me she cried at one, but she cries at most things now, so I wouldn't take it to heart."
 
@@ -3383,7 +3383,7 @@ They sat with their backs against a pier, knees up. Overhead the old building cr
 
 Archie looked at the beam of the flashlight lying across the dust.
 
-He thought of a church basement in Somerville when he was nineteen. A woman in a hot tub in Reno. Four hundred rooms, give or take, and the same hands in all of them, and him in every one with his eyes wide open, wanting.
+A church basement in Somerville when he was nineteen. A woman in a hot tub in Reno. Four hundred rooms, give or take, and the same hands in all of them, and him in every one with his eyes wide open, wanting.
 
 "I've been looking since I was seven years old," he said. "I've never found one, Kev. Not one."
 
@@ -3446,7 +3446,7 @@ Kev climbed. Halfway up he turned and looked down at Archie.
 
 The select board room had been freezing on Monday. On Tuesday afternoon it was freezing everywhere except one corner, where the space heater Archie had ordered from Portland sat under Tess's end of the long table, ticking and glowing orange, with Tess's boots as close to it as the law allowed.
 
-It was ten past two. Lieutenant Neil Brannock had driven down from Augusta at noon, and in the forty minutes since he'd walked in he had watched Kev Duchesne's footage seven times on Tess's laptop, said about a dozen words, and drunk most of an extra-large Dunkin' coffee. Kev was next door with a trooper, giving a formal statement that would include Friday night in the prop room. His little camera had been bagged at eleven, and he had folded the receipt into a very small square. Archie sat at the long table because nobody had told him where to sit and nobody had told him to leave. On the wall above him hung framed photographs of every chair of the Merrow select board since 1899. The one nearest the door was a stern man in a bow tie who could only have been Warren's grandfather. Archie had been not looking at it for half an hour.
+It was ten past two. Lieutenant Neil Brannock had driven down from Augusta at noon, and in the forty minutes since he'd walked in he had watched Kev Duchesne's footage seven times on Tess's laptop, said about a dozen words, and drunk most of an extra-large Dunkin' coffee. Kev was next door with a trooper, giving a formal statement that would include Friday night in the prop room. His little camera had been bagged at eleven, and he had folded the receipt into a very small square. Archie sat at the long table because nobody had told him where to sit and nobody had told him to leave. Of the past select board chairs on the wall, the one nearest the door was a stern man in a bow tie who could only have been Warren's grandfather. Archie had been not looking at it for half an hour.
 
 Brannock took off his reading glasses and looked at him.
 
@@ -3472,15 +3472,13 @@ Archie sat. He was still grinning.
 
 Brannock let him grin. He finished his coffee, set the empty cup down precisely on the corner of the legal pad, and folded his hands.
 
-"Here's what your fan's footage does for me," he said. "Two things. It shows the victim's left hand free in the dark at 8:17, which means the daughter lied when she said she held it. You'd told us as much. Now I can show it to a jury." He turned the laptop so that the frozen frame faced Archie: the horn on its side on the table, three white bands. "And it shows that horn lying there in the dark, untouched, from the moment the lights went out until the moment the victim picked it up. Seventeen minutes. Nobody reached for it. Which means whatever was in that mouthpiece was in there before the lights went out."
+"Here's what your fan's footage does for me," he said. "Two things. It shows the victim's left hand free in the dark, which means the daughter lied when she said she held it. You'd told us as much. Now I can show it to a jury. And it shows that horn lying untouched from the moment the lights went out until the victim picked it up. Seventeen minutes. Which means whatever was in that mouthpiece was in there before the lights went out."
 
 Archie stopped grinning.
 
-"Saturday night, at the hospital in Rockport," said Brannock, "you told Sergeant Calloway that when the lights came back up you saw Ivy Crane pick up the trumpet and wipe the small end with her scarf. Twice. Then put the scarf in her coat pocket." He waited. "Is that still your statement?"
+"Saturday night, at the hospital," said Brannock, "you told Sergeant Calloway you saw Ivy Crane wipe the small end of that trumpet with her scarf when the lights came up." He waited. "Is that still your statement?"
 
-Archie saw it then, all at once, as you see a trick from the wrong side of the table when the volunteer's back is turned and the whole method is lying in your palm.
-
-The daughter who poured everything her mother drank, who had said twice on tape that she'd held her hand, and who had wiped the horn in the full glare of the house lights and wouldn't give up the scarf.
+Archie saw it then, all at once, as you see a trick from the wrong side of the table when the volunteer's back is turned and the whole method is lying in your palm. The daughter who poured everything, who had lied twice on tape about the hand, and who had wiped the horn in the full glare of the house lights.
 
 He'd told Tess it was a reset. He still believed it. He had done it himself ten thousand times.
 
@@ -3494,7 +3492,7 @@ He could say he'd been on the floor with a dying woman's head in his arm. He cou
 
 Brannock nodded once and wrote it down.
 
-"And I want something put in with it," Archie said. "That a performer does that. After a show you wipe the props. It's how you protect the method. She's been doing it since she was twelve years old. It's called a reset."
+"And I want something put in with it," Archie said. "After a show, a performer wipes the props. It protects the method. She's been doing it since she was twelve. It's called a reset."
 
 "Put it in," said Brannock. "A jury likes a reason." He drew a folder from under the legal pad. "The remote you pulled out of the umbrella stand kills the infrared feed on both of Marchand's cameras. The prints on it that aren't yours are Ivy Crane's. We took the scarf from her room last night, on a warrant. It's at the lab." He closed the folder. "And she inherits."
 
@@ -3510,7 +3508,7 @@ Tess stood. For a fraction of a second she didn't move. Then she picked up her l
 
 "I'm not going anywhere."
 
-Trooper Lavoie was a large, mild young man with a head cold, and he took Archie from the straitjacket on Thursday morning to the waiting room on Saturday night, and then through the last two minutes of the séance four different ways. Archie answered the same way four times. He talked too much, as he always did when he was frightened, and Lavoie let him and blew his nose and wrote things down. The tall windows went from white to gold to a deep cold blue. Someone brought the lieutenant another coffee, and nobody brought anything for Archie.
+Trooper Lavoie, a large, mild young man with a head cold, took Archie from the straitjacket on Thursday morning to the waiting room on Saturday night, and through the last two minutes of the séance four different ways. He talked too much, as he always did when he was frightened, and Lavoie let him and blew his nose and wrote things down. The tall windows went from white to gold to a deep cold blue. Someone brought the lieutenant another coffee, and nobody brought anything for Archie.
 
 At 5:26 Lavoie turned off the recorder. At 5:30 Archie came out through the town hall's front doors onto the granite steps.
 
@@ -3529,9 +3527,9 @@ Left was Water Street. On Water Street was the Spindrift Inn.
 
 At five thirty-one he was running.
 
-The hearse was in the lot behind the town hall, but it took two tries to start on a cold night and woke every dog it passed, and the Spindrift was at the bottom of the hill. Main Street went down to the harbor in one long slope, and he went down it in his velvet jacket with no coat, past the hardware store and the dark ice-cream stand with its sign that said SEE YOU IN MAY, his breath going out ahead of him in clouds. He was forty-seven and he had legs like a heron's, which were wonderful for stepping over things and no use at all for this. Below him the harbor was black, with the riding lights of the moorings strung across it.
+The hearse was in the lot behind the town hall, but it took two tries to start on a cold night and woke every dog it passed, and the Spindrift was at the bottom of the hill. Main Street went down to the harbor in one long slope, and he went down it in his velvet jacket with no coat, past the hardware store and the dark ice-cream stand with its sign that said SEE YOU IN MAY, his breath going out ahead of him in clouds. He was forty-seven and he had legs like a heron's, which were wonderful for stepping over things and no use at all for this.
 
-He wanted Ivy to hear from him what he'd told the trooper. It wasn't much. It was what he had.
+He wanted Ivy to hear it from him first: what he'd told the trooper, and why.
 
 The Spindrift Inn stood at the corner with every window lit. The front door was open, letting the heat out. Both cars sat in the curved drive with their engines running, and on the porch steps, in a Merrow PD jacket with her thumbs hooked in her belt, stood Officer Kayla Bissonnette.
 
@@ -3611,12 +3609,6 @@ Tess came around the car and stopped beside him, close enough that he could see 
 
 "It's advice. The orders start tomorrow." She got in behind the wheel.
 
-Pru Haskell had come out onto the porch with the dish towel. "Can I get you something?" she said. "Coffee?"
-
-"No. Thank you."
-
-"I'll make it anyway," said Pru, and went back in.
-
 The Interceptor pulled out of the drive, and the cruiser after it, and Archie stood alone at the edge of the gravel and watched the two pairs of taillights go down Water Street along the harbor — past the dark co-op, past the fuel dock, red and small and getting smaller — until they turned at the corner by the Galley and were gone.
 
 Then he went back up the hill for the hearse.
@@ -3630,9 +3622,9 @@ Then he went back up the hill for the hearse.
 
 At ten o'clock on Tuesday night the kitchen at Fairweather House smelled of soup that nobody had eaten, and Archie was drawing a table.
 
-He'd sat in the lobby of the Knox County Jail for an hour, on a bench bolted to the wall, until a steel door buzzed at nine-forty and Margaret Okafor came through it in a camel coat. Her client, she said, was eating a sandwich. Her client did not wish to see him. His part in this was the paying part, and he could do that from home.
+He'd sat for an hour on a bench in the lobby of the Knox County Jail until Margaret Okafor came through a steel door at nine-forty. Her client, she said, was eating a sandwich. Her client did not wish to see him. His part in this was the paying part, and he could do that from home.
 
-So he was home, at the scarred farm table, with a yellow legal pad. He had drawn a circle for the séance table and seven small circles around it, labeled in capitals — LORELEI at the top, then IVY, WARREN, MOTHER, ME, KEV, SHANNON — and a long skinny cone in the middle for the trumpet. A half-dollar walked across the knuckles of his left hand, over and under, and back. He didn't watch it.
+So he was home, at the scarred farm table, with a yellow legal pad. He had drawn the séance table, with seven small labeled circles around it and a long skinny cone in the middle for the trumpet. A half-dollar walked across the knuckles of his left hand, over and under, and back. He didn't watch it.
 
 Vivienne set a bowl of soup at his elbow. She was in a green kaftan with a man's gray cardigan over it.
 
@@ -3646,7 +3638,7 @@ June was at the far end of the table with her laptop open and her chemistry book
 
 He didn't hear Lenny come in. He looked up from the pad and Lenny was standing at his elbow, looking at the soup, and then at the drawing, and then he pulled out a chair and sat down at the table — which he did not do, in this kitchen or any other, unless he meant to stay. Archie felt it like a hand on his shoulder.
 
-Lenny turned the legal pad around with one finger. He brought his reading glasses down from his forehead and studied the drawing.
+Lenny turned the legal pad around with one finger and studied the drawing.
 
 "Who touched it," he said, "after you?"
 
@@ -3654,13 +3646,13 @@ Archie put the coin down.
 
 It was the right question. He had spent four hours asking *why did she wipe it* and *what is she eating in there*, and Lenny, who in thirty years had never asked about anything but hardware, had asked about the hardware.
 
-"I put it down dead center," Archie said. "Teddy called cut. Lorelei and Ivy went down to the green room, and I went to the back of the hall and talked riverboats with Dale." He went through the rest as plainly as he could. "Ivy came back up at some point and put the rod under the cloth — there was nothing under that table at seven-thirty but table. Quarter to eight, maybe. I didn't see it. Kev was over by the radiator. Mother was at her chair. Hollis slid the horn a few inches when Teddy called to her about the candle. That's what I saw, and I saw it from the back of the room."
+"I put it down dead center," Archie said, "and went to the back of the hall with Dale." He gave Lenny the rest as plainly as he could. Ivy had come back up at some point to plant the rod; there had been nothing under that table at seven-thirty but table. Kev by the radiator. His mother at her chair. Hollis sliding the horn when Teddy asked. "That's what I saw, and I saw it from the back of the room."
 
 Lenny put one blunt finger on the cone in the middle of the drawing.
 
 "Then it's the girl," he said, "or it's nobody."
 
-"It's not nobody." Archie pulled the pad back. "The tripod cameras weren't recording — Teddy called cut, I heard him. Everything Brannock showed me on Monday was the same two angles, dead level, wide, and then the dark, from Kev." He tapped the pad. "But there was a third camera. On a man's shoulder, drifting around that stage the whole time I was at the back. If Teddy had handed that over, Brannock would have been dying to show me myself from a new angle, near the horn. He didn't have it."
+"It's not nobody." Archie pulled the pad back. "The tripods stopped when Teddy called cut. But there was a third camera, on a man's shoulder, drifting around that stage the whole time I was at the back. If Brannock had that footage, he'd have shown it to me. He didn't have it."
 
 "Who's the cameraman?" said June.
 
@@ -3670,11 +3662,11 @@ Lenny put one blunt finger on the cone in the middle of the drawing.
 
 "How do you know that?"
 
-"He borrowed my gaffer tape. Thursday." Lenny pushed his glasses back up onto his forehead. "He brought it back." From Lenny, that was a recommendation for a medal. "You never look at the crew."
+"He borrowed my gaffer tape. Thursday. He brought it back." From Lenny, that was a recommendation for a medal. "You never look at the crew."
 
 "I look at the crew."
 
-"Thirty years you've had crews." Lenny folded his arms. "Who ran your flies in Las Vegas? Nine years. Every show."
+"Who ran your flies in Las Vegas? Nine years."
 
 Archie opened his mouth. A face arrived: young, sunburned, a goatee, a Dodgers cap. Nothing arrived with it.
 
@@ -3684,7 +3676,7 @@ Archie opened his mouth. A face arrived: young, sunburned, a goatee, a Dodgers c
 
 "Luis. Of course. Luis."
 
-June's laptop was already turned toward him. "Camera operators all have reels online," she said. "If he's Marco and he works for Marchand, he'll be on a crew list with his last name, and then he'll have an Instagram, and it'll say where he is. Give me twenty minutes."
+June's laptop was already turned toward him. "Camera operators all have reels online," she said. "If he works for Marchand, he'll be on a crew list, and then he'll have an Instagram. Give me twenty minutes."
 
 "No."
 
@@ -3696,7 +3688,7 @@ June's laptop was already turned toward him. "Camera operators all have reels on
 
 "Not tonight."
 
-June looked at him down the length of the table, and he watched her decide not to argue. He'd seen her do it at a debate podium, when she'd judged a round was lost and her time was better spent elsewhere. She closed the laptop.
+June looked at him down the length of the table, and he watched her decide not to argue. She closed the laptop.
 
 "Okay," she said.
 
@@ -3716,9 +3708,7 @@ Vivienne didn't move. She sat with her hands folded on the table and looked at h
 
 ---
 
-The turret was cold, and he didn't turn on the lamp. The light from the landing was enough to show him the trunk under the north window, with its faded gold stars.
-
-He sat down on the floor in front of it. He hadn't been up here in three nights.
+The turret was cold, and he didn't turn on the lamp; the light from the landing was enough to show him the trunk. He sat down on the floor in front of it. He hadn't been up here in three nights.
 
 *The trunk, Sparrow.*
 
@@ -3728,7 +3718,7 @@ He put his fingers on the first dial and turned it to S.
 
 The brass was cold. The dial clicked softly into place. He turned the second to P, and the third to A, and his fingers went to the fourth.
 
-Lorelei had found the word in Ivy's binder, behind the tab with his name on it: a photocopied page of the *Merrow Packet*, one line in yellow highlighter. A library, a laptop, a newspaper nobody had read in thirty-seven years — and then a tin horn, and his mother gone rigid in the dark, on camera, for money.
+Lorelei had found the word in yellow highlighter behind a pink tab in Ivy's binder. A newspaper nobody had read in thirty-seven years — and then a tin horn, and his mother gone rigid in the dark, on camera, for money.
 
 He took his fingers off the dial.
 
@@ -3803,7 +3793,7 @@ For a second Teddy looked genuinely lost. Then he laughed, short and not happily
 
 Teddy was quiet. He turned the unlit vape over in his fingers.
 
-"Because I've watched it," he said. "Sunday morning, in my room, with the door locked. At seven forty-four the daughter comes back up the stairs on her own and slides a stick under the tablecloth. A telescoping rod, with a glove on the end. So she can touch Warren Gilley on the ear in the dark." He looked at Archie. "You hand that to the police, it's evidence. It's in a courtroom. It's on the news, frame by frame, with a little red circle around her hands. Eight seasons, a hundred and four episodes, eleven international territories, and the whole library turns into a girl with a stick. That's not a show anymore. That's a class action."
+"Because I've watched it," he said. "Sunday morning, in my room, with the door locked. At seven forty-four the daughter comes back up the stairs alone and slides a telescoping rod under the tablecloth, so she can touch Warren Gilley on the ear in the dark." He looked at Archie. "You hand that to the police, it's evidence. It's in a courtroom. It's on the news, frame by frame, with a little red circle around her hands. Eight seasons, a hundred and four episodes, eleven international territories, and the whole library turns into a girl with a stick. That's not a show anymore. That's a class action."
 
 "And Ivy sits in a cell."
 
@@ -3827,7 +3817,7 @@ Teddy put the vape in one vest pocket and unzipped the other. He took out a litt
 
 "There's no documentary. Not after this." Teddy held the case up between two fingers. "How'd you do the Glass Box?"
 
-Archie had seen it coming since he'd made the joke himself, ten minutes earlier. You didn't mention the thing a man wanted most unless you were ready to be asked for it. He had seen it coming, and it landed anyway.
+Archie had seen it coming since he'd made the joke himself, ten minutes earlier. You didn't mention the thing a man wanted most unless you were ready to be asked for it. It landed anyway.
 
 The Glass Box was the last thing he'd done in Las Vegas: a clear case on a bare, bright stage, three thousand people watching him step into it, and then a clear case with nobody in it, and Archie on a plane to Boston to sit in the third row of his daughter's debate final. Four people on earth knew how it worked — Lenny, who had built it; two stagehands who had signed papers thicker than the box; and Archie. That night in Boston, an hour before he promised her a real year, June had looked up from her room-service fries and asked how he'd gotten out, and he'd said, *Magic, Junebug,* and thought it was charming.
 
@@ -3837,7 +3827,7 @@ The Glass Box was the last thing he'd done in Las Vegas: a clear case on a bare,
 
 "Don't tell me what it isn't. Tell me what it is."
 
-Archie looked at the case between Teddy's fingers. He thought about Ivy in the back seat of the Interceptor with her hands behind her, sitting up straight. He thought about her bare throat.
+Archie looked at the case between Teddy's fingers and saw Ivy in the back seat of the Interceptor with her hands behind her, sitting up straight, her throat bare.
 
 He got up and went to the coffee counter by the security lane and came back with a paper napkin. He clicked his pen and wrote on it in capitals, pressing hard so it wouldn't tear:
 
@@ -3880,7 +3870,7 @@ Archie walked back out to the hearse past the family from Connecticut, who asked
 
 At eleven on Wednesday morning the opera house was still dressed for a funeral.
 
-Marchand Media's blackout drapes hung over every tall window; Hollis had volunteers coming at four to take them down. The police had released the hall on Tuesday morning and taken the props to the lab. What was left stood center stage under two work lights on stands: the round oak table and its seven chairs, where the crew had left them, with torn corners of evidence tape still stuck to the boards around the legs. His buffalo-check coat hung over the back of Lorelei's chair, where he'd dropped it yesterday. He put it on. Rain ticked on the windows behind the drapes.
+Marchand Media's blackout drapes hung over every tall window; Hollis had volunteers coming at four to take them down. What the police had left stood center stage under two work lights on stands: the round oak table and its seven chairs, where the crew had left them, with torn corners of evidence tape still stuck to the boards around the legs. His buffalo-check coat hung over the back of Lorelei's chair, where he'd dropped it yesterday. He put it on. Rain ticked on the windows behind the drapes.
 
 Lenny had brought a laptop up from the workshop, and a card reader, and fifty feet of orange extension cord, which he'd run from the prop room in the firm belief that electricity was out to get him. He set the laptop on the table in front of Lorelei's chair and held out his hand.
 
@@ -3934,17 +3924,17 @@ The footage came up.
 
 It was a low angle from somewhere near the stage-left wing, handheld but steady, the picture warm and grainy under the work light, with a timecode running in the corner: 19:36:02. The first thing on the screen was Archie's own elbow.
 
-He watched himself pour from Bev's thermos and hold a cup out across the table to a woman in black velvet, who laughed and moved her daughter's hand aside and took it. There was no sound for the toast; Marco had been too far away. Lorelei drank half and set the cup down. Archie watched her set it down, and for a second he couldn't watch anything else.
+He watched himself hand a cup of Bev's tea across the table to a woman in black velvet, who laughed and took it. She drank half and set it down, and for a second Archie couldn't watch anything else.
 
 "Seven forty-one," said June, writing. "Cut."
 
-On the screen Lorelei rose and went out of the frame toward the stage-right stairs, and Ivy rose and followed with the water bottle and the lozenges. The work light went down. The camera stayed on the table. On the audio, faint, came Teddy's voice from the wing: *Marco, stay on the table for me. Give me the table breathing. That's the cold open.*
+On the screen Lorelei and Ivy went out of the frame toward the stairs, the work light went down, and the camera stayed on the table. On the audio, faint, came Teddy's voice from the wing: *Marco, stay on the table for me. Give me the table breathing. That's the cold open.*
 
 The table breathed. Empty chairs; the bell, the tambourine, the slate; the trumpet in the center, its three pale bands catching what light there was.
 
 At 19:43:50, Ivy Crane came back up the stairs alone.
 
-She went straight to her own chair, the one at her mother's left. She didn't sit. She bent, half turned from the camera, and her hands went under the overhang of the tablecloth at her own place and slid something in — long and thin and black — and smoothed the cloth down over it. It took about ten seconds. Then she went back out of the frame the way she'd come.
+She went straight to her own place at her mother's left, bent half turned from the camera, slid something long and thin and black under the overhang of the tablecloth, and smoothed the cloth down over it. It took about ten seconds. Then she went back out of the frame the way she'd come.
 
 The trumpet sat in the middle of the table the whole time. Her hands never came nearer to it than the table's edge.
 
@@ -3958,15 +3948,13 @@ Lenny took a tape measure out of one of his sweaters and ran it from the edge of
 
 Something was rising in Archie that he didn't trust yet. He sat on it.
 
-Seven forty-five: Shannon Mayo, alone at her place in the dimness. On the little screen she looked at the trumpet for a while. Then she reached out and laid one fingertip on its narrow end and drew it slowly around the rim, and snatched her hand back into her lap, and looked around the empty stage to see if anyone had seen.
+Seven forty-five: Shannon Mayo, alone at her place in the dimness, laid one fingertip on the narrow end of the trumpet and drew it slowly around the rim, and snatched her hand back into her lap.
 
-Nobody in the opera house said anything.
-
-Archie had seen it on Saturday night, from the back of the hall. He'd looked away. It hadn't been his to see. On the laptop, in Marco's warm grainy picture, it went on happening, and there was nowhere to look away to.
+Archie had seen it on Saturday night, from the back of the hall, and looked away. On the laptop it went on happening, and there was nowhere to look away to.
 
 "Run it back," said June, very quietly. Lenny ran it back. The fingertip went around the rim of the small end. June wrote it down without saying what she was writing.
 
-Seven forty-six: Kev Duchesne leaned into the frame with his phone held out in both hands, photographing the table like a man photographing a celebrity's lunch, and Teddy's voice came sharp off camera — *Phones away, please, sir* — and Kev jumped and backed off toward the radiators on the stage-left wall, where he stayed, a dark hoodie at the edge of the picture. Seven forty-seven: Warren Gilley crossed behind the chairs with one hand on his stomach and was gone. Seven forty-eight: Hollis with a long match, lighting the tall pillar candle in the middle of the table and then the small ones around the edge; then a tray, and a glass of water at every place. Vivienne came into the frame and fussed with a black shawl over the back of her chair until it hung to her satisfaction. Shannon sat at her place with her hands in her lap and didn't move.
+Seven forty-six: Kev Duchesne leaned into the frame with his phone until Teddy's voice came sharp off camera — *Phones away, please, sir* — and he backed off to the radiators on the stage-left wall, a dark hoodie at the edge of the picture. Seven forty-seven: Warren Gilley crossed behind the chairs with one hand on his stomach and was gone. Seven forty-eight: Hollis with a long match, lighting the tall pillar candle in the middle of the table and then the small ones around the edge; then a tray, and a glass of water at every place. Vivienne came into the frame and fussed with a black shawl over the back of her chair until it hung to her satisfaction. Shannon sat at her place with her hands in her lap and didn't move.
 
 "Does he ever point it somewhere else?" said June. "Ever?"
 
@@ -3984,7 +3972,7 @@ The harbor. The moorings. A little bob as Marco adjusted something. The harbor.
 
 At 19:51:50 the camera swung back to the table.
 
-The trumpet sat a few inches to the left of where it had been, out of the candle's way. Hollis was walking off toward the stage-right wing with her empty tray under her arm. Behind her a young man from the crew knelt to tape down a cable, and at the edge of the frame Marco's own hand came up and did something to the lens and went away again.
+The trumpet sat a few inches to the left of where it had been, out of the candle's way. Hollis was walking off toward the stage-right wing with her empty tray under her arm, in black crew gloves like the young man kneeling behind her to tape down a cable, and at the edge of the frame Marco's own gloved hand came up and did something to the lens and went away again.
 
 "Forty seconds," said June.
 
@@ -4004,23 +3992,21 @@ He took his hand back.
 
 "Walk it," he said.
 
-They walked it. June sat in Shannon's place with her phone's stopwatch running and reached for the center: three seconds. Lenny stood at the radiator for Kev, walked to the table, touched the middle of it, and walked back: twelve seconds. Archie stood where Hollis had stood and slid an invisible horn; then he stood in Vivienne's place and reached. Every one of them fit, with time left over to stop and say good evening.
+They walked it with June's stopwatch. From Shannon's place to the center: three seconds. From the radiator to the table and back: twelve. Archie stood where Hollis had stood and slid an invisible horn; then he stood in Vivienne's place and reached. Every one of them fit, with time left over to stop and say good evening.
 
 At 19:55 on the laptop, Archie walked into the frame himself. He watched himself cross to his mother's chair and sit beside her and put his hand on the table, and turn it over when she laid hers on top. On the screen, in the candlelight, she looked small.
 
-"You're not in the forty seconds, Dad," said June. "You're not on camera at all until fifty-five."
-
-"I was at the back with Dale."
+"You're not on camera at all until fifty-five, Dad," said June.
 
 "Dale was with him," said Lenny.
 
-"I know," said June. "I'm saying what the lieutenant's going to say."
+"I know. I'm saying what the lieutenant's going to say."
 
 Archie was looking at the frozen frame on the laptop — the little flames, the empty chairs, the horn moved a few inches to the left — and he said the thing he'd been sitting on since seven forty-four.
 
-"She never touched it. Ivy. Not after I put it down. She was at her place for ten seconds with her hands under the cloth, twenty-three inches away, and then she was downstairs until seven fifty-eight, and then she sat down, and then Kev's camera has it lying there in the dark until Lorelei picks it up herself. The rod's a fraud, fine. The scarf's a reset. The whole act's a fraud. But she never laid a finger on that horn after I had it at my mouth."
+"She never touched it. Ivy. Ten seconds at her place with her hands under the cloth, twenty-three inches away, then downstairs until seven fifty-eight, and then Kev's camera has the horn lying there in the dark until Lorelei picks it up herself. The rod's a fraud. The whole act's a fraud. But she never laid a finger on that horn after I had it at my mouth."
 
-"Then it's one of four people," said June. "Or the crew." She didn't look at him. "And one of the four put her finger in it. On camera."
+"Then it's one of four people," said June. "Or the crew." She didn't look at him. "And one of the four put her finger on it. On camera."
 
 "She was saying hello," said Archie. "To her husband."
 
@@ -4028,7 +4014,7 @@ Archie was looking at the frozen frame on the laptop — the little flames, the 
 
 "Ivy didn't do it," said Archie. "That's what matters."
 
-June opened her mouth, and then shut it again and wrote something on her legal pad that he didn't read.
+June wrote something on her legal pad that he didn't read.
 
 "Kev," she said finally.
 
@@ -4038,11 +4024,11 @@ Archie was already looking at the radiator.
 
 "Before the toot."
 
-"I know. I'm saying he sneaks. And he's ten feet away." She turned her phone around. "Spectral Kev. Eleven thousand four hundred subscribers on Friday. Six hundred and thirty thousand this morning. He turned the ads on Sunday night. He's probably made more since Saturday than in five years."
+"I know. I'm saying he sneaks. And he's ten feet away." She turned her phone around. "Six hundred and thirty thousand subscribers this morning. He turned the ads on Sunday night."
 
 "Twelve seconds from the radiator," said Lenny, to nobody.
 
-Archie thought of Kev in the crawlspace with his EMF meter, believing in everything. Then he thought about what a dead medium was worth to a man with eleven thousand subscribers, and didn't like how easily the number came.
+Archie pictured Kev in the crawlspace with his EMF meter, believing in everything, and then did the arithmetic on what a dead medium was worth to Spectral Kev, and didn't like how easily the number came.
 
 "I'm going to ask him," he said.
 
@@ -4065,11 +4051,11 @@ Lenny ejected the card, put it back in its little case, and held it out. He didn
 
 By two o'clock it was raining sideways off the harbor, cold enough to sting.
 
-Lieutenant Neil Brannock's car was a dark gray Explorer with state plates, parked nose-in at the back of the town hall lot under a bare maple. The driver's door stood open. Brannock sat sideways in the driver's seat with his feet out on the running board and Tess's laptop on his knees, and his reading glasses on, which he wore with the resignation other men bring to a cast. Rain was coming in on his left shoulder. He didn't seem to have noticed. Beside the open door, in her charcoal coat with the hood up and her braid gone dark with wet, stood Tess Calloway, holding a clear evidence bag with the little black card case inside it. Archie stood beside her in his buffalo-check coat, which had begun to smell like a sheep.
+Lieutenant Neil Brannock's dark gray Explorer was parked nose-in at the back of the town hall lot under a bare maple. The driver's door stood open. Brannock sat sideways in the driver's seat with his feet out on the running board and Tess's laptop on his knees, and his reading glasses on, which he wore with the resignation other men bring to a cast. Rain was coming in on his left shoulder. He didn't seem to have noticed. Tess stood beside the open door in her charcoal coat with the hood up, holding a clear evidence bag with the little black card case inside it. Archie stood beside her in his buffalo-check coat, which had begun to smell like a sheep.
 
 He had called her at half past twelve from the hearse. She had listened without a word for so long that he checked the phone, and then said: *Parking lot. Two o'clock. You get ten minutes.* She had carried it to Brannock herself.
 
-Brannock watched seven forty-four once more — Ivy's hands under the tablecloth, twenty-three inches from the horn — and then the forty seconds, and then sat back and took the glasses off.
+Brannock watched seven forty-four once more, and then the forty seconds, and then sat back and took the glasses off.
 
 "Where did you get this?"
 
@@ -4097,7 +4083,7 @@ Tess turned her head and looked at him. He felt it on the side of his face like 
 
 "She never touched the horn after I put it down. You just watched it."
 
-"I watched twenty minutes of a tablecloth. The tampering stands either way — she wiped it, she lied about the hands, she ditched the remote. That's what put her in a cell, and nothing on this card changes it." Brannock looked out at the rain. "On the murder, your card clears her on one condition, and the condition is seven thirty-five. Did your lips touch the metal, Mr. Fairweather? Or did you make a noise near it and let a roomful of people and two cameras believe they did?"
+"I watched twenty minutes of a tablecloth. The tampering stands either way; nothing on this card changes it." Brannock looked out at the rain. "On the murder, your card clears her on one condition, and the condition is seven thirty-five. Did your lips touch the metal, Mr. Fairweather? Or did you make a noise near it and let a roomful of people and two cameras believe they did?"
 
 "I put my mouth on it."
 
@@ -4105,7 +4091,7 @@ Tess turned her head and looked at him. He felt it on the side of his face like 
 
 "Then swab it. You'll find me."
 
-"We did. It's a low-template mixture after that scarf went over it — the victim, and possibly somebody else. The tox came back fast because the sergeant asked for one compound by name. DNA's a different line, and it's a long one. I'll know about a third person in six weeks, maybe." He let that sit. "So say it was real. Say you tooted, honest as the day. Then the horn's clean at seven thirty-five, and I've got your forty seconds. I've got the house manager, who moved it when the producer asked her to. I've got a fan by the radiator with six hundred thousand new reasons. And I've got a widow who'd paid the victim a thousand and fifty dollars — who says her own kids' godmother had told her the whole act was a fraud — putting her finger in the mouthpiece at seven forty-five, on camera, ten minutes before anybody else touched it." He paused. "Mrs. Mayo will be hearing from us. You put her in that chair, I'm told."
+"We did. After that scarf went over it, it's a mixture — the victim, and possibly somebody else. DNA's a long line. I'll know about a third person in six weeks, maybe." He let that sit. "So say it was real. Say you tooted, honest as the day. Then the horn's clean at seven thirty-five, and I've got your forty seconds. I've got the house manager, who moved it when the producer asked her to. I've got a fan by the radiator with six hundred thousand new reasons. And I've got a widow who'd paid the victim a thousand and fifty dollars — who says her own kids' godmother had told her the whole act was a fraud — putting her finger on the mouthpiece at seven forty-five, on camera, six minutes before anybody else touched it." He paused. "Mrs. Mayo will be hearing from us. You put her in that chair, I'm told."
 
 Archie didn't argue. He had.
 
@@ -4117,9 +4103,9 @@ Archie didn't argue. He had.
 
 Rain drummed on the roof of the Explorer.
 
-"And if the toot was a trick," said Brannock, "then I'm back where I was on Monday. Ms. Crane at seven-twenty, alone with the props. Or the one man in that building with two million reasons, and poison in his own dooryard, and the best pair of hands in the country." He swung his feet in out of the rain. "Your card doesn't open a door, Mr. Fairweather. It opens one I'd nearly finished with, back onto you and her. If you've got a better name than your mother's — or Mrs. Mayo's — now's the time."
+"And if the toot was a trick," said Brannock, "then I'm back where I was on Monday: the one man in that building with two million reasons, and poison in his own dooryard, and the best pair of hands in the country." He swung his feet in out of the rain. "Your card doesn't open a door, Mr. Fairweather. It opens one I'd nearly finished with, back onto you and her. If you've got a better name than your mother's — or Mrs. Mayo's — now's the time."
 
-Archie thought of the radiator, and twelve seconds, and six hundred thousand subscribers. He thought of a man in a bow tie in the Galley on Tuesday morning, with forty people watching him find out what Archie thought of him.
+Kev's name was right there: the radiator, twelve seconds, six hundred thousand subscribers. So was a man in a bow tie in the Galley on Tuesday morning, with forty people watching him find out what Archie thought of him.
 
 "No," he said.
 
@@ -4129,11 +4115,11 @@ Brannock looked at him through the open door.
 
 For a second Brannock looked almost sorry. Then he put the key in the ignition.
 
-"One more thing. Since Saturday you've been to see the victim's daughter, the widow, the producer, the fan, and the chair of the select board. Every person on that tape is a witness in a homicide. If you go near any of them again about this case, I'll treat it as tampering with a witness, and I'll charge it. I won't enjoy it. I'll do it anyway." He looked at Tess for the first time. "Sergeant Calloway won't be in contact with you about this case from here on. Anything you have, you bring to me. In daylight. Through the front door."
+"One more thing. I told you on Monday to stay away from my witnesses. That was advice. Go near anyone on that tape again about this case, and I'll charge it as tampering with a witness. I won't enjoy it. I'll do it anyway." He looked at Tess. "Sergeant Calloway won't be in contact with you about this case from here on. Anything you have, you bring to me. In daylight. Through the front door."
 
 "Yes, sir," said Tess.
 
-Brannock pulled the door shut. The Explorer backed out of its space, crossed the empty lot, signaled — at nobody — and turned onto Main Street toward Route 1, wipers going, and was gone.
+Brannock pulled the door shut. The Explorer backed out, signaled at nobody, and turned onto Main Street toward Route 1.
 
 Tess stood in the rain with the evidence bag in her hand and the laptop under her coat.
 
@@ -4141,19 +4127,15 @@ Tess stood in the rain with the evidence bag in her hand and the laptop under he
 
 "Yes."
 
-"At eight in the morning. Alone. To a witness who'd lied to us." She was looking at the empty space where the Explorer had been. "And then you called me at half past twelve and let me carry it to him. And let him ask you where it came from with me standing here."
+"At eight in the morning. Alone. To a witness who'd lied to us." She was looking at the empty space where the Explorer had been. "And then you let me carry it to him, and let him ask you where it came from with me standing here."
 
 "I didn't think he'd—"
 
-"He thinks I sent you." She turned. Her face was wet, and her gray eyes didn't move from his. "He's thought I was running you since the walkthrough on Sunday. He was nearly done thinking it. Now he isn't." She held the evidence bag up between them. "If you'd called me at seven instead of twelve-thirty, I'd have driven. I'd have walked in with a badge and had Marchand sign for it in front of a witness, with a time on it. It'd be worth something."
+"He thinks I sent you." She turned. Her face was wet, and her gray eyes didn't move from his. "He's thought I was running you since the walkthrough on Sunday. He was nearly done thinking it. Now he isn't." She held the evidence bag up between them. "If you'd called me at seven, I'd have driven. I'd have had Marchand sign for it in front of a witness, with a time on it. It'd be worth something."
 
 "He'd never have handed it to a badge."
 
-"Then we'd have gotten a warrant."
-
-"And he'd have been in Boston, and that card would have been in a trash can at Logan."
-
-"Maybe." She didn't give him an inch. "Why didn't you call me?"
+"Maybe not." She didn't give him an inch. "Why didn't you call me?"
 
 He thought about lying to her, and knew he wouldn't manage it. He never had, with anyone he cared about.
 
@@ -4170,7 +4152,7 @@ She turned and walked away across the lot to the back door of the town hall, wit
 
 ## Paint Day
 
-At four o'clock on Wednesday afternoon Archie climbed the opera house stairs with a square of cardboard under his arm that said, in black marker, SHOW CANCELLED — WITH APOLOGIES — A.F., and found the top of the stairs blocked by Bev Thibodeau.
+At four o'clock on Wednesday afternoon Archie climbed the opera house stairs with a square of cardboard under his arm that said, in black marker, SHOW CANCELED — WITH APOLOGIES — A.F., and found the top of the stairs blocked by Bev Thibodeau.
 
 She was in a barn coat and rubber boots, with a clipboard held against her chest, and behind her the hall was full of noise.
 
@@ -4222,7 +4204,7 @@ He climbed down and found Bev on the landing with her clipboard.
 
 "I'll buy every lobster in the co-op tank. I'll pay you double. I'll wash the pans. Badly, but I'll wash them."
 
-Bev looked at him over her reading glasses. Then she took out her phone and dialed a man twenty feet away.
+Bev looked at him for a long moment. Then she took out her phone and dialed a man twenty feet away.
 
 "Dickie," she said into it. "Get down off that sawhorse. We're opening."
 
@@ -4310,7 +4292,7 @@ He laid the card face down on the plank between them. She put her hand on it, an
 
 By eight o'clock the north wall was done and the south wall nearly; the tin ceiling would be another day and another argument. People were finding their coats and disputing whose crockpot was whose. Behind the stage the painted drape glowed under the work lamps — gulls and schooners and a sky far too blue for Maine.
 
-Hollis stood at the center of the stage with her clipboard under her arm and her hands pushed into the pockets of her corduroys. She looked out at the half-painted hall, and at Archie coming down off the scaffold with cream paint to his elbows, and gave her short bark of a laugh.
+Hollis stood at the center of the stage with her clipboard under her arm and her hands pushed into the pockets of her corduroys. She looked out at the half-painted hall, and at Archie coming down off the scaffold with cream paint to his elbows, and laughed out loud.
 
 "Your grandfather would have loved this," she said.
 
@@ -4389,7 +4371,7 @@ She wrote it down, pressing hard.
 
 "Then I count slow," said June.
 
-Lenny looked at her for a moment over his reading glasses. Then he went back to filing.
+Lenny looked at her for a moment. Then he went back to filing.
 
 ---
 
@@ -4491,7 +4473,7 @@ Archie stood up. He couldn't say anything. June's face changed and started to as
 
 The dooryard was dark and cold. The fog hadn't come in yet, and the sky over the harbor was full of stars. He stood on the frozen gravel in his shirtsleeves with his breath smoking and let the cold have his face for a minute.
 
-Across the dooryard the kitchen light was on, and his mother was at the window with the phone at her ear and her back to the glass. She had taken two calls into the pantry at supper and come out both times saying it was nobody. His mother had never in her life called anyone nobody. He thought of a black shawl on the back of a chair two feet from the horn, and made himself stop.
+Across the dooryard the kitchen light was on, and his mother was at the window with the phone at her ear and her back to the glass. She had taken two calls into the pantry at supper and come out both times saying it was nobody. His mother had never in her life called anyone nobody. A black shawl on the back of a chair, two feet from the horn. He made himself stop.
 
 Through the carriage-house window he could see the lamp, and the platform, and his daughter shaking out the sheet to do it again. Lenny's bald head rose out of the trap. He said something. June laughed — short and surprised, the kind she usually caught before it got out — and didn't catch it. She put the sheet over the chair, and the hoop caught, and the shape sat under the lamp, waiting for somebody to come up into it.
 
@@ -4536,7 +4518,7 @@ She was in her fifties, compact, in a black wool coat and sensible shoes, with c
 
 She walked him down a corridor of painted cinderblock to a door with a narrow window in it, and stopped.
 
-"Ground rules," she said. "You are a witness for the State. You do not discuss your statement or the scarf. If she starts to, you stop her, and if you don't, I will, and I'm better at it." She looked at him over a pair of reading glasses she hadn't put on. "You're here because the State has a theory, my client has a confession that isn't one, and the most famous debunker in the world is paying my invoices. I want a third party, Mr. Fairweather. Somebody with a better reason than an inheritance. Find me one."
+"Ground rules," she said. "You are a witness for the State. You do not discuss your statement or the scarf. If she starts to, you stop her, and if you don't, I will, and I'm better at it." "You're here because the State has a theory, my client has a confession that isn't one, and the most famous debunker in the world is paying my invoices. I want a third party, Mr. Fairweather. Somebody with a better reason than an inheritance. Find me one."
 
 "You think there is one."
 
@@ -4604,11 +4586,11 @@ Ivy unfolded her hands and laid them on the steel.
 
 "It's a reset," said Archie.
 
-"It's a reset." For the first time something moved in her face. "I wasn't hiding anything on Saturday night except her."
+"It's a reset." Her face moved, very slightly. "I wasn't hiding anything on Saturday night except her."
 
 Okafor wrote that down, word for word, and underlined it.
 
-Archie sat back in the plastic chair. In his head, Kev Duchesne was crouched in the dark under the opera house stage with an EMF meter, telling him about the Trumpet Hiatus. *Sister Lori wouldn't use the trumpet in private sittings, Mr. Fairweather. For years. The forums can't even agree when it started. Most people think Brother Amos told her to.*
+Archie sat back in the plastic chair. In his head, Kev Duchesne was sitting in the dark on the opera house stage with an EMF meter, telling him about the Trumpet Hiatus. *Sister Lori wouldn't use the trumpet in private sittings, Mr. Fairweather. For years. The forums can't even agree when it started. Most people think Brother Amos told her to.*
 
 "Your mother stopped using the horn," he said. "In the private sittings. For years."
 
@@ -4739,7 +4721,7 @@ Liam dug a nickel out of his jeans and tried. It went over his first knuckle, an
 
 From somewhere behind the cabinet, Lenny said, "That's gone."
 
-Liam looked at the gap. Then he looked at his mother. Shannon looked at Archie for the first time that evening, a long, level look with nothing in it he could name.
+Liam looked at the gap. Then he looked at his mother. Shannon looked at Archie, a long, level look.
 
 "Liam," she said. "Leave Mr. Fairweather alone."
 
@@ -4982,7 +4964,7 @@ And under that, back in the code: *No more T for privates.*
 
 She looked up.
 
-"It's on the memorial. The granite at the end of the wharf." He could see the stone the way he saw everything he'd ever read once — the cold pink morning, Shannon in his coat, the names cut in rows with their years beside them. "*Arthur Coombs, 1978. Robert and James Haskell, 1991. Peter Langley, 2003.*"
+"It's on the memorial. The granite at the end of the wharf." He could see the stone the way he saw everything he'd ever read once — the cold pink morning, Shannon in his coat, the names cut in rows. "*Arthur Coombs. Robert and James Haskell. Peter Langley.*" He'd read it twice that week and seen nothing but a name on a stone.
 
 June's face went still. Then it went white, starting at the mouth.
 
@@ -5053,7 +5035,7 @@ He stood on the step in his buffalo-check coat with his hands in his pockets and
 
 He sat on the stool at the end of the counter by the register. The Galley at five in the morning was a different room from the Galley at seven — chairs still upside down on the tables, the booths empty, the windows gray, the grill only beginning to tick as it heated. It smelled of coffee and hot sugar and the bleach she'd used on the floor last night. The radio on the shelf by the kitchen door was reading the marine forecast: *fog, visibility under one mile, seas two to four feet.*
 
-Bev took the chairs down off the liars' table, one at a time, and set them around it at the angles they liked. She filled the urn. She poured a mug of coffee and put it in front of him without being asked, and then she looked at him properly for the first time, over her reading glasses, with the pot still in her hand.
+Bev took the chairs down off the liars' table, one at a time, and set them around it at the angles they liked. She filled the urn. She poured a mug of coffee and put it in front of him without being asked, and then she looked at him properly, with the pot still in her hand.
 
 "You've been up all night."
 
@@ -5202,7 +5184,7 @@ The basement smelled of damp stone and old paper and the oil furnace roaring on 
 
 She had believed the magician since Wednesday. She'd told him so on the phone that night, against orders, in a call she would never log. Believing him wasn't evidence. What she had was the lab report on the scarf — aconitine and lipstick together on a single fold, in a smear consistent with wiping something off, not putting something on — and what Margaret Okafor had told her on Thursday in the jail corridor, after Tess had passed Archie coming out with Ivy Crane's signature in his hand. Okafor wanted a third party more than she wanted lunch. *A man in Maine, Sergeant. Two thousand three. My client's mother put the trumpet away after him for years. Find him.*
 
-A man in Maine. Two thousand three. Tess had pulled over on Route 1 with the engine running and thought about a drawer by a stove.
+A man in Maine. Two thousand three. Tess had pulled over on Route 1 with the engine running and remembered a drawer by a stove.
 
 "Abbott," read Dale. "Dog bite. Ayuh, that's the Abbotts' shepherd, that dog bit everybody." He set it on the pile. "Ames. Burglary. Summer place out on the point, they lost a television." Another folder. "Bickford. Noise complaint." He looked up. "Your dad wrote down *noise complaints*?"
 
@@ -5431,7 +5413,7 @@ He stared at her.
 
 "I'm not going anywhere. Where would I go? I'm sixty-six years old and I've got a cat." She was still holding out the envelope. "Take it. If I don't come down out of that booth tonight, it goes straight to Tess. And if I do, it goes to her anyway, and I'll go with it. Either way. Tonight. You have my word."
 
-He thought about Bev at five in the morning, saying *Archie* in that voice. He thought about Ivy Crane in Knox County Jail, who couldn't get out on a Friday night whatever anybody did, and who would walk out tomorrow morning if this envelope said what Hollis said it did. He thought about three hundred people, his grandfather's name on the poster, and two hundred and eighty light cues that lived in this woman's head and in a coffee-stained cue book in a drawer.
+He weighed it. Bev at five in the morning, saying *Archie* in that voice. Ivy Crane in Knox County Jail, who couldn't get out on a Friday night whatever anybody did, and who would walk out tomorrow morning if this envelope said what Hollis said it did. Three hundred people, his grandfather's name on the poster, and two hundred and eighty light cues that lived in this woman's head and in a coffee-stained cue book in a drawer.
 
 And in nine weeks she had never once lied to him. He hated himself for counting that.
 
@@ -5484,7 +5466,7 @@ In the front row, by their own insistence, sat the liars' table — Elwin Coombs
 
 At the very back of the hall, against the wall by the stairs in a gray parka, stood Kayla Bissonnette — not in uniform, and not watching the stage.
 
-Archie's shoulders came down for the first time since three o'clock. Stepping out the stage door at half past five for air, he'd seen the Merrow PD cruiser parked up on Main Street with its lights off and somebody in it. Now here was Kayla, twenty feet below the booth, with the balcony stairs at her elbow. Tess had read his text. It was Tess's now, and the woman in the booth was watched.
+Archie's shoulders came down. Stepping out the stage door at half past five for air, he'd seen the Merrow PD cruiser parked up on Main Street with its lights off and somebody in it. Now here was Kayla, twenty feet below the booth, with the balcony stairs at her elbow. Tess had read his text. It was Tess's now, and the woman in the booth was watched.
 
 Above Kayla, up in the horseshoe of the balcony, in the little plywood booth with its window full of soft amber light, a small square shape in a cardigan was bent over the dimmer board.
 
@@ -5789,7 +5771,7 @@ The swell lifted the skiff and set it down. Each time, it came down a little clo
 
 Archie held on to the wheelhouse. The boat rolled. Behind him Tess was on the radio, low, giving their position.
 
-He thought about a hatbox on a kitchen table at two o'clock in the morning, and thirty small books in cramped private shorthand, and his daughter's finger moving down a page.
+He saw a hatbox on a kitchen table at two o'clock in the morning, and thirty small books in cramped private shorthand, and his daughter's finger moving down a page.
 
 "She remembered Peter," he said.
 
@@ -5833,7 +5815,7 @@ Archie went over the side.
 
 The cold was the worst thing he had ever felt.
 
-He'd known it would be. He had done ice-water tanks for television; he knew that the first thing cold water does is try to make you breathe, and if your head is under when it happens, you breathe in the sea. None of that had been forty-seven years old in fifty-two-degree water at night in a swell.
+He'd known it would be. He had worked in cold water half his life; he knew that the first thing it does is try to make you breathe, and if your head is under when it happens, you breathe in the sea. None of that had been at forty-seven, in fifty-two-degree water, at night, in a swell.
 
 He came up gasping anyway, the cold like a band of iron around his ribs, and got his breath back by main force — *slow, slow, slow* — and kicked toward the hat.
 
@@ -5894,7 +5876,7 @@ Hollis looked up at her.
 
 "You were always my best one at procedure," she said.
 
-Then her hand came out from under the blankets, shaking, wet. It went into the pocket of the soaked cardigan and came out holding something that clanked: an iron ring the size of a dinner plate, with what looked like a hundred keys on it — brass and steel, long and short, every lock in the Merrow Opera House and half the doors on Main Street. Seawater ran off it onto the dock.
+Then her hand came out from under the blankets, shaking, wet. It went under the soaked cardigan to her hip and came out holding something that clanked: an iron ring the size of a dinner plate, with what looked like a hundred keys on it — brass and steel, long and short, every lock in the Merrow Opera House and half the doors on Main Street. Seawater ran off it onto the dock.
 
 She held it out across the gap. Not to Tess. To Archie.
 
@@ -5918,7 +5900,7 @@ The young EMT was trying to get Archie onto a second stretcher.
 
 "I have a *show.*"
 
-Tess was standing over him. She had Hollis's envelope in one hand, dark with seawater at one corner, and her other hand pressed against her own chest, and she was looking down at him with an expression he had never seen on her and didn't have time to read.
+Tess was standing over him. She had Hollis's envelope in one hand, dark with seawater at one corner, and her other hand pressed against her own chest, and she was looking down at him, white around the mouth.
 
 "You're out of your mind," she said.
 
@@ -6333,7 +6315,7 @@ Elwin Coombs stopped beside Archie's chair. He looked down at him, and over at D
 
 "How'd you do it?"
 
-The Galley went quiet again. Archie looked up at the three of them — Elwin's weathered red face, Dickie's suspenders, Lionel, who had stood up in front of the whole town last night and told them his name — and thought about a crawlspace forty feet long, and a girl's voice coming down through the floorboards, and an old man's hand on his arm in the dark.
+The Galley went quiet again. Archie looked up at the three of them — Elwin's weathered red face, Dickie's suspenders, Lionel, who had stood up in front of the whole town last night and told them his name — and remembered a crawlspace forty feet long, and a girl's voice coming down through the floorboards, and an old man's hand on his arm in the dark.
 
 "I'll never tell you," Archie said. "Not as long as I live."
 

@@ -142,3 +142,13 @@ Hollis's married name; any link of Peter to Hollis; Lorelei having worked Rockla
 - Gus folded his cloak on the skiff seat in 1988. Archie folds it on Ozzie's seat before he dives (Ch 38). Ch 44: a man who goes over the side by accident doesn't fold his cloak.
 - Walt helped Gus vanish. Book 1 seeds only: "still owes me a boat" (Ch 4); Hollis's memory of Gus winking at Walt on his way out (Ch 42).
 - Teddy knows the Glass Box method (napkin NDA) — a possible later-book thread.
+
+
+## 9. Final-draft amendments (post-panel revisions)
+- **Shannon's touch (live alternative):** at 7:45 Shannon, alone at her place, traces the rim of the trumpet's small end with one fingertip — grief, "saying hello" to where Tommy would speak. Archie sees it from the back and looks away (Ch 7); the B-roll shows it (Ch 26); Brannock names her and Kayla interviews her Wednesday (Ch 27–28); Hollis, at home with her coat on, nearly confesses that night (Ch 41). Resolved by the confession. Six minutes before Hollis's slide, so chemically irrelevant.
+- **Vivienne** is pressed by Brannock (Ch 27); Archie refuses to name anyone. Her evasiveness is Ozzie (resolved Ch 33).
+- **Kev** is the likeliest of the four in Archie's mind in Ch 26 (subscribers 11,400 → ~630,000, monetized).
+- **Library card (Ch 5):** Deb glosses every entry; for *H. Langley 12/03* she notes that's when the high school started its séance unit and she stopped letting the book out. Memorial names are read without years (Ch 3, Ch 32); the ledger supplies 2003.
+- **Sparrow source** planted in Ch 12 (Ivy's binder, 1988 *Packet* photocopy), paid off in Ch 24 and Ch 44.
+- **Ch 41/42 swapped:** 41 = Keys (Pen Bay; Hollis shows the method with a rolled lunch menu; explains her flight), 42 = Daylight (the Galley).
+- **Archie's Glass Box method:** traded to Teddy (Ch 25), given to June (Ch 44).
