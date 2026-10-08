@@ -1,6 +1,6 @@
 ---
 document: review — Chapters 1–4, final gate check (Stage 0), five commandments, variation, lead-presence
-reviewed: manuscript/ch01.md–ch04.md after revision pass 10
+reviewed: manuscript/ch01.md–ch04.md after the final pass (11, with the Glass Box beat reverted)
 ---
 
 # Stage 0 — gates 1–8 on the prose
@@ -13,7 +13,7 @@ reviewed: manuscript/ch01.md–ch04.md after revision pass 10
 | 4 | Foil by the chapter after commitment; partner never gone > 3 chapters | **PASS** | Tess in person Ch 2 and Ch 4; by text Ch 3 ("Don't touch it.") |
 | 5 | Suspects on page by ~25% | **PASS (to Ch 4)** | Ch 1: Lorelei, Ivy, Warren, Vivienne, Kev, Shannon, Teddy (voice), Hollis (booth voice, 911, down the stairs), Pinkham. Ch 2: Teddy in person |
 | 6 | Five commandments with a value shift | **PASS** | Map below |
-| 7 | One scene, under 2,000 words | **PASS** | 1,978 / 1,967 / 1,913 / 1,756 words *including* chapter headers; each is one continuous dramatic scene |
+| 7 | One scene, under 2,000 words | **PASS** | 1,978 / 1,966 / 1,894 / 1,750 words *including* chapter headers; each is one continuous dramatic scene |
 | 8 | Variation (≥2 of place/cast/scale; never 3 in one place) | **PASS** | Opera house · séance circle · full room → hospital · Tess/Ivy/Teddy/Rao/Vivienne · small → Fairweather House kitchen and turret · family · small → the Galley · town · full room. All three axes change at every boundary |
 
 # Five commandments (as revised)
