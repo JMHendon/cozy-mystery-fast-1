@@ -4,7 +4,7 @@ document: line-edit-protocol
 schema_version: craft.v3
 consumed_by: the line editor (human or agent) — actively RUN against every chapter as the FINAL pass, after continuity, quality review, and any energy/register work; also drafters, as a pre-submission self-check
 read_when: a chapter is otherwise done; return upstream if a sentence-level flag reveals a structural defect
-status: v3.0, 2026-10-08 — rewritten as a genre standard for any cozy mystery; project-specific examples and measurements removed; adds the lead-voice guard.
+status: v3.1, 2026-10-09 — adds rule 11, the overloaded sentence, and same-gender pronoun clarity under rule 3. (v3.0, 2026-10-08: rewritten as a genre standard for any cozy mystery; adds the lead-voice guard.)
 ---
 
 # Line-Edit Protocol — sentence-level clarity
@@ -21,6 +21,7 @@ Run sentence by sentence. Each rule names a habit drafted prose (human or machin
 
 **3. Pronoun across an interrupter.** *Habit:* `it/one/them` separated from its antecedent by a participial or parenthetical phrase, landing on the wrong noun ("came in with a clean blouse over her arm, having lost this argument in advance…, and put it into the case" — *it* lands on *argument*).
 **Rule:** after any interrupting phrase of six or more words, repeat the noun. No pronoun with a competing noun of matching number between it and its antecedent.
+**Same-gender pronouns.** When two or more people of the same gender are in the sentence (or were in the one before), *her/his/she/he* stops pointing anywhere. Name the person instead. "Lorelei Crane across from him, her daughter at her left elbow, and at her right Shannon Mayo" has three women and three *her*s; write "Lorelei Crane sat across from Archie, with her daughter, Ivy, on her left. On Lorelei's right sat Shannon Mayo."
 
 **4. The overloaded suspension.** *Habit:* three or more finite verbs plus an em-dash insertion or embedded quotation in one sentence ("rose mid-sentence — '…' — gathered the vase, carried it out, came back, sat, and picked the sentence up").
 **Rule:** maximum two finite verbs when the sentence also carries a quotation or a dash-insertion. Split at the third verb.
@@ -46,6 +47,12 @@ Run sentence by sentence. Each rule names a habit drafted prose (human or machin
 
 **10. Setup/payoff adjacency.** *Habit:* successive revision passes cut locally and orphan payoffs — "There may be sheep" surviving after "You're leaving ninety minutes early" was cut; a glancing hypothetical ("a charming letter") promoted four lines later into an established routine ("the charming letters").
 **Rule:** for every joke, callback, and echo in the draft, verify its setup still exists in THIS draft, close enough to be alive, at matching scale. Also check the cue for every objection, demand, deflection and concession. A reply to a participation requirement cannot rely on a line that now sounds merely like an invitation; conditions after failed resistance must not be moved ahead of that resistance. Locate a historical incident before referring to it as an event both speakers know. An orphaned payoff is cut or re-set-up, never left to be understood in retrospect. This is a comprehension test, not a rule to bring clue and consequence closer together. Mystery emphasis across an interval belongs to the structural review below.
+
+**11. The overloaded sentence.** *Habit:* one sentence tries to carry a whole moment: a list after a colon, an appositive, a *which/who* clause, an opening absolute phrase, and a chain of *and … and … and*. Each piece is grammatical; together the reader loses the subject.
+**Rule:** one main action or idea per sentence. Split a narration sentence when it has two or more of these: a list of three or more items; an appositive; a *which/who/whom* clause; an opening absolute or participial phrase ("with the house lights up and two cameras on him, he…"); more than two actions joined by *and*. Put the subject and verb near the front. Turn an opening absolute into a plain clause ("while the house lights blazed and two cameras recorded him") or move it to the end. A narration sentence over about 25 words is a flag to check, not a ban; a long sentence that is one clear line of action can stay. Dialogue may run long when that is how the character talks.
+*Worked repairs:*
+> "There were seven of them round a small oak table, close enough to bump knees: Lorelei Crane across from him, her daughter at her left elbow, and at her right Shannon Mayo, whom Archie had put there himself because she was the one person at the table he was sure wasn't in on it." → "Seven of them sat around a small oak table, close enough to bump knees. Lorelei Crane sat across from Archie, with her daughter, Ivy, on her left. On Lorelei's right sat Shannon Mayo. Archie had put Shannon there himself, because she was the one person at the table he was sure wasn't in on it."
+> "Half an hour ago, with the house lights up and two cameras on him, he had searched everything Lorelei had brought, down to the trumpet itself, a long dented aluminum cone wrapped in luminous bands, which he had looked through, put to his lips at the narrow end and blown a long wet raspberry into." → "Half an hour ago, he had searched everything Lorelei brought while the house lights blazed and two cameras recorded him. He even searched the trumpet itself, a long, dented aluminum cone wrapped in luminous bands. After looking through it, he put his lips to the narrow end and blew a long, wet raspberry into it."
 
 ## Description check — paragraph and encounter scale
 

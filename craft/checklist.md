@@ -1,7 +1,7 @@
 ---
 layer: craft
 document: checklist
-status: v1.1, 2026-10-09 — chapters 1,800–2,200 words; the two reader-pull questions. (v1.0, 2026-10-08: one-page summary of the craft set. Paste into every planning, drafting and revision brief. The full documents govern where this is silent.)
+status: v1.2, 2026-10-09 — chapters 1,800–2,200 words; the two reader-pull questions; sentence rule. (v1.0, 2026-10-08: one-page summary of the craft set. Paste into every planning, drafting and revision brief. The full documents govern where this is silent.)
 ---
 
 # Cozy Mystery Checklist
@@ -57,3 +57,4 @@ status: v1.1, 2026-10-09 — chapters 1,800–2,200 words; the two reader-pull q
 - **Blocking:** impatience before the crime, or readers consistently naming someone other than the lead in answer to *both* of those last two questions.
 - **Lead-presence check** before and after every pass. A pass that makes the prose cleaner and the lead smaller has failed.
 - One human cold reader outranks every panel.
+- **Sentences:** one main action or idea per sentence; name people instead of stacking same-gender pronouns (`line-edit-protocol.md`, rules 3 and 11).
