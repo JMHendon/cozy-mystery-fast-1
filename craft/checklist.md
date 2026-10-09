@@ -1,7 +1,7 @@
 ---
 layer: craft
 document: checklist
-status: v1.0, 2026-10-08 — one-page summary of the craft set. Paste into every planning, drafting and revision brief. The full documents govern where this is silent.
+status: v1.1, 2026-10-09 — chapters 1,800–2,200 words; the two reader-pull questions. (v1.0, 2026-10-08: one-page summary of the craft set. Paste into every planning, drafting and revision brief. The full documents govern where this is silent.)
 ---
 
 # Cozy Mystery Checklist
@@ -19,7 +19,7 @@ status: v1.0, 2026-10-08 — one-page summary of the craft set. Paste into every
 6. **Five commandments** in every chapter (inciting incident, turning point, crisis, climax, resolution) with a real value shift; every act and the global story mapped.
 
 **Chapter mechanics**
-7. Each chapter is **one scene and under 2,000 words**. Exceptions need the author's approval.
+7. Each chapter is **one scene of 1,800–2,200 words**. Exceptions need the author's approval.
 8. Each chapter changes **at least two of place, cast and scale** from the last. Never three chapters running in one location.
 9. Book length within the brief's target (default 65,000–85,000 words).
 
@@ -53,7 +53,7 @@ status: v1.0, 2026-10-08 — one-page summary of the craft set. Paste into every
 ## Reviewing
 
 - Run the **gate check first**, every time.
-- **AI reader panels are not validation.** Ask: Where did you want to stop? When did you expect something that hadn't happened? Who was the most fun? Would you want to *be* the lead?
-- **Blocking:** impatience before the crime, or anyone but the lead named most magnetic.
+- **AI reader panels are not validation.** Ask: Where did you want to stop? When did you expect something that hadn't happened? "Which character would you most like to spend a day with?" and "Which character would you most like to be like?"
+- **Blocking:** impatience before the crime, or readers consistently naming someone other than the lead in answer to *both* of those last two questions.
 - **Lead-presence check** before and after every pass. A pass that makes the prose cleaner and the lead smaller has failed.
 - One human cold reader outranks every panel.

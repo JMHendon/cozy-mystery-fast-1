@@ -7,7 +7,7 @@ reads_with: north-star.md, style-guide.md, mystery-plan.md (planner-only), carry
 
 # Outline
 
-**Shape:** 44 chapters, each one scene under 2,000 words (targets 1,600–1,950; book target ~79,000 words). Five days, Monday October 27 (the séance) to Friday October 31 (Halloween night, the climax), then a three-chapter restoration ending on Saturday November 15, the day the opera house sale closes.
+**Shape:** 44 chapters, each one scene of 1,800–2,200 words (targets 1,800–1,950; book target ~79,000 words). Five days, Monday October 27 (the séance) to Friday October 31 (Halloween night, the climax), then a three-chapter restoration ending on Saturday November 15, the day the opera house sale closes.
 
 **The structural answer to the retry:** the book opens *inside* the séance, in the dark, with Archie winning. Everything the old plan staged before the death (the challenge, the controls, the toot, the tea, Archie's history with Lorelei, Shannon's readings, Hollis talking him out of cancelling) is delivered around the death or afterwards, each where it changes something now: the toot and the tea arrive as evidence against Archie in Ch 5, "Beat her" arrives as Archie's regret in Ch 4, Shannon's readings arrive as her grief in Ch 14.
 
@@ -34,7 +34,7 @@ Forensic **conventions** (compressed for pace; never stated as medical fact on t
 | 4 | Foil on the page no later than the chapter after commitment; partner never gone more than three chapters | **Ch 2** (first meeting); no gap > 3 chapters (see brief list) | Tess arrives at the hospital in Ch 2; they spar at once. Tess chapters: 2, 4, 5, 9, 11, 12, 15, 19, 20, 22, 23, 27, 28, 30, 31, 34–41, 43 |
 | 5 | Every suspect (incl. killer) on the page by ~25% (Ch 11); none new after midpoint | **Ch 1–2** | Ch 1: Lorelei, Ivy, Warren, Vivienne, Kev, Shannon, Teddy (voice), Hollis (voice from the booth, the 911 call, then down the stairs in person), Pinkham. Ch 2: Teddy in person. Hollis speaks in a scene Ch 11 |
 | 6 | Five commandments in every chapter; acts and global mapped | **All** | Every brief below; act and global maps below and in north-star.md |
-| 7 | One scene, under 2,000 words | **All 44** | Targets 1,600–1,950; no exceptions requested |
+| 7 | One scene, 1,800–2,200 words | **All 44** | Targets 1,800–1,950; no exceptions requested |
 | 8 | Each chapter changes ≥2 of place/cast/scale; never three in one location | **All** | Variation check in every brief; the opera house pair Ch 34–35 is the one deliberate two-in-a-row (lobby one-to-one → full hall) |
 | 9 | Length 70,000–85,000 (brief) | **Book** | 44 × ~1,800 = ~79,000 |
 | 10 | Fair play; solved by deduction, confession only confirms | **Ch 34** (click) before Ch 39 (confession) | Every §6 fact on the page by Ch 34 (placement table below); Archie's deduction is complete before Hollis says a word or her letter is opened |
@@ -449,7 +449,7 @@ Format: **Pursuit** (what Archie is after) · **Counterpressure** (whose positiv
 - **Variation:** parlor → wharf/boat; Vivienne → Pinkham/Mattie/June; two-hander → small group outdoors. ✓
 
 ### Ch 26 — A Favor from Dana
-*Fri · 7:05–7:35 a.m. · The hearse, parked at the Pudding Lane bus stop · Target 1,750*
+*Fri · 7:05–7:35 a.m. · The hearse, parked at the Pudding Lane bus stop · Target 1,800*
 **Cast:** Archie, June; network chief on speaker; Hollis (over her fence, one line). **Scale:** two-hander + phone.
 - **Pursuit:** get Marchand's B-roll card handed to the police by 10 a.m., using fame.
 - **Counterpressure:** the network's head of content wants the Halloween special to air and doesn't want her star producer's footage subpoenaed; June wants to get out of the hearse before anybody sees her.
@@ -597,7 +597,7 @@ Format: **Pursuit** (what Archie is after) · **Counterpressure** (whose positiv
 - **Variation:** wharf → boat/ledge; kids gone, Hollis added; moving group → four at sea. ✓
 
 ### Ch 38 — Fifty-Two Degrees
-*Fri · 9:05–9:15 p.m. · In the water and on Shag Ledge · Target 1,700*
+*Fri · 9:05–9:15 p.m. · In the water and on Shag Ledge · Target 1,800*
 **Cast:** Archie, Hollis; Tess and Ozzie above. **Scale:** two in the water.
 - **Pursuit:** get her out alive.
 - **Counterpressure:** cold that takes the hands in a minute; the swell; Hollis doesn't fight him, and doesn't help.

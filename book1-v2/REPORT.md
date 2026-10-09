@@ -118,3 +118,10 @@ No Archie dialogue was cut to fix other tics, and his size is intact.
 4. **Hollis in Act 2.** Ch 11, 14, 16, 26 and 28 each give one ordinary fact. Genre-savvy readers flagged the warm helper early in drafting. The spread is designed, but untested beyond Ch 4.
 5. **The Shag Ledge climax.** Rescuing a killer whose intent is "undecided" in 52-degree water is the darkest beat in the plan. Archie's buoyancy and the rescue framing should keep it light-energy, but it needs care in drafting.
 6. **Ch 3's taste beats** (the monkshood laugh, "Don't say gift") split readers.
+
+## Post-run changes (2026-10-09, at the author's request)
+
+- **Snapshots** of Chapters 1–4 after the first draft, pass 4, pass 7 and pass 11 are in `drafts/` (see `drafts/README.md`).
+- **Chapter length** is now 1,800–2,200 words (craft v3.2). Outline targets are raised to at least 1,800. Current Ch 1–4: 1,960 / 1,924 / 1,894 / 1,821 words, including headers.
+- **Reader questions:** "most magnetic" and "be Archie?" are replaced by "Which character would you most like to spend a day with?" and "Which character would you most like to be like?" The blocking finding is now readers consistently naming someone other than Archie for *both*. The open "most magnetic" finding above is superseded and has not yet been re-tested with the new questions.
+- **Rollback** of the pass 8–11 changes that shrank Archie. Details are in `drafts/README.md`.

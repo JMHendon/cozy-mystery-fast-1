@@ -66,7 +66,7 @@ During Halloween week in Merrow, Maine, America's most beloved TV medium, Lorele
 - At home he's the kid and his family are the grown-ups, but he is a devoted, tender father to June.
 - His flaws can cost him, but the book never treats his larger-than-life nature as the thing to cure. He grows; he doesn't shrink.
 
-**Tests for every chapter:** "Would Castle say this out loud?" and "Would a reader want to *be* Archie in this chapter?"
+**Tests for every chapter:** "Would Castle say this out loud?" and "After this chapter, would a reader want to spend a day with Archie, or be like him?"
 
 **Copy this whole "The lead" section word for word into every drafting and revision brief you give a sub-agent.**
 
@@ -90,7 +90,7 @@ Under `book1-v2/`:
   - the global five commandments
   - each act's five commandments, with chapter numbers
   - every sequence, with its purpose and value shift
-  - a **brief for every chapter in the book**: place, cast, scale, time, pursuit, counterpressure, development as tactics, the five commandments, the value shift, required facts, exit, a target length under 2,000 words, and the variation check against the previous chapter
+  - a **brief for every chapter in the book**: place, cast, scale, time, pursuit, counterpressure, development as tactics, the five commandments, the value shift, required facts, exit, a target length of 1,800–2,200 words, and the variation check against the previous chapter
   - the **clue and herring placement table**: every fair-play fact from `carryover/mystery-solution.md` §6, and every herring, with the chapter where it surfaces
 - `foundation/mystery-plan.md` (planner-only): the investigation's knowledge ledger by chapter (what the police, Archie and the reader each know, and when), keeping the four clocks honest.
 - `manuscript/ch01.md` to `manuscript/ch04.md`.
@@ -107,11 +107,12 @@ This run is autonomous; run each checkpoint as a self-check instead of stopping.
 - Get at least one blind cold reading of Chapters 1–4 from a separate sub-agent. Give it only the chapters, no plan or solution, and tell it nothing about what the book intends. Ask it:
   - Where were you tempted to stop, and why?
   - When did you expect something to happen that hadn't happened yet?
-  - Who was the funniest, most magnetic person?
-  - Did you want to *be* Archie, or just spend time with him?
+  - Who was the funniest person?
+  - Which character would you most like to spend a day with?
+  - Which character would you most like to be like?
   - What do you think happened, and who do you suspect?
   - Would you read Chapter 5 right now?
-- Simulated readers are not validation. A reader saying the opening is slow, or naming someone other than Archie as the most magnetic character, is a blocking finding: fix it before finishing.
+- Simulated readers are not validation. Blocking findings, to fix before finishing: a reader saying the opening is slow, or readers consistently naming someone other than Archie in answer to *both* of the last two questions.
 - Run the lead-presence check before and after every revision pass. Line edits may not cut Archie's dialogue or jokes to fix prose tics. After every pass, confirm Archie is still the brightest voice on the page.
 
 ## Success means

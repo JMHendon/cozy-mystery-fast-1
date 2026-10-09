@@ -4,7 +4,7 @@ document: genre-standard
 schema_version: craft.v3
 consumed_by: planners (when designing books and casts), critics (when judging whether a draft is the genre it claims), the red-teamer (the conventions attack surface)
 read_when: designing a mystery or cast; reviewing an outline; adjudicating an "is this cozy?" dispute in revision
-status: v3.1, 2026-10-08 — sixteen hard gates in five groups (opening and structure, chapter mechanics, the mystery, the cozy contract, the ending); lead within three pages; foil no later than the chapter after commitment; bite-sized chapters and light-energy apply to every book. (v3.0: rewritten as a genre standard for any cozy mystery.)
+status: v3.2, 2026-10-09 — chapters 1,800–2,200 words. (v3.1, 2026-10-08: sixteen hard gates in five groups (opening and structure, chapter mechanics, the mystery, the cozy contract, the ending); lead within three pages; foil no later than the chapter after commitment; bite-sized chapters and light-energy apply to every book.) (v3.0: rewritten as a genre standard for any cozy mystery.)
 ---
 
 # Genre Standard — what a cozy mystery is
@@ -15,7 +15,7 @@ Cozy mystery is a subgenre of crime, and crime's global external value is **just
 
 ## The reader promise
 
-The crime is serious; the world is gentle. The reader's pleasure is **companionship**: they return because they want to be in the lead's company, and many want to *be* the lead. The plot must satisfy a fair-play reader without ever becoming the point. The world is fixable: cases resolve, communities reset, and the ending leaves the world genuinely better, with one visible human cost (usually the killer's tragedy) unresolved by design.
+The crime is serious; the world is gentle. The reader's pleasure is **companionship**: they return because they want to spend time in the lead's company, and many want to *be like* the lead. The plot must satisfy a fair-play reader without ever becoming the point. The world is fixable: cases resolve, communities reset, and the ending leaves the world genuinely better, with one visible human cost (usually the killer's tragedy) unresolved by design.
 
 ## The hard gates (pass/fail)
 
@@ -37,7 +37,7 @@ These are not conventions to weigh. They are checked in the outline's gate table
 
 ### B. Chapter mechanics
 
-7. **Chapters are bite-sized: one scene, under 2,000 words.** Each chapter is one dramatic scene (at most two closely connected scenes) and under 2,000 words. This is what makes a page-turner: the reader always feels there is time for one more chapter. Exceptions need a specific reading-experience reason and the author's approval, recorded in the brief; aim for at least 95% of chapters inside the rule.
+7. **Chapters are bite-sized: one scene, 1,800–2,200 words.** Each chapter is one dramatic scene (at most two closely connected scenes) of 1,800–2,200 words. This is what makes a page-turner: the reader always feels there is time for one more chapter. Exceptions need a specific reading-experience reason and the author's approval, recorded in the brief; aim for at least 95% of chapters inside the rule.
 8. **Every chapter changes the configuration.** Each chapter differs from the one before in at least two of place, cast and scale (one-to-one, small group, full room). Never three consecutive chapters in the same location.
 9. **Book length** is within the brief's target (default 65,000–85,000 words).
 
@@ -82,7 +82,7 @@ These are not conventions to weigh. They are checked in the outline's gate table
 
 ## The lead
 
-The lead is the book's product. Readers buy the series to spend time with this person, and the best leads make readers want to *be* them.
+The lead is the book's product. Readers buy the series to spend time with this person, and the best leads make readers want to *be like* them.
 
 - **Write the lead from behaviour, not adjectives.** "Charming, larger than life, lovable" is easy to agree with and easy to lose. The lead card says how the lead enters a room, talks, theorises, wins, loses, spends, flirts, fears and enjoys, with sample lines at several registers.
 - **A named reference is a specification.** If the author models the lead on an existing character, the lead card translates that model into concrete behaviour, and that section travels word for word into every drafting and revision brief. Test chapters against it directly ("Would that character say this out loud?").
@@ -93,7 +93,7 @@ The lead is the book's product. Readers buy the series to spend time with this p
 
 ## Bite-sized chapters (gate 7)
 
-Every book plans roughly **95% of chapters as one dramatic scene, no more than two closely connected scenes, and fewer than 2,000 words for the whole chapter**. Shorter chapters are welcome; there is no minimum to pad towards. The principle comes from Shawn Coyne's Story Grid: a chapter that is one complete scene ends on a turn, and a short one always leaves the reader feeling there is time for another. That is how a cozy becomes a page-turner.
+Every book plans roughly **95% of chapters as one dramatic scene, no more than two closely connected scenes, and 1,800–2,200 words for the whole chapter**. A chapter under 1,800 usually means the encounter hasn't been fully played; one over 2,200 usually means two scenes. Never pad to reach the floor: play the scene more fully instead. The principle comes from Shawn Coyne's Story Grid: a chapter that is one complete scene ends on a turn, and a short one always leaves the reader feeling there is time for another. That is how a cozy becomes a page-turner.
 
 A scene is a developing dramatic encounter, not a room. A live negotiation can continue from a hall into a study; several unrelated visits in one house are still several scenes. Brief travel, orientation or an aftermath beat need not be independent scenes, but their words and cumulative load still count. Do not relabel a string of encounters as "one arrival scene" to satisfy the rule. See `storygrid-commandments.md` for the distinction between chapter, scene and sequence.
 

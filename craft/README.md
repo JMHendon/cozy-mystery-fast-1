@@ -1,7 +1,7 @@
 ---
 layer: craft
 document: index
-status: v3.1, 2026-10-08 — sixteen hard gates; one-page checklist; prompt template. (v3.0: the craft set rewritten as a genre standard for any cozy mystery.)
+status: v3.2, 2026-10-09 — chapters 1,800–2,200 words; two reader-pull questions. (v3.1, 2026-10-08: sixteen hard gates; one-page checklist; prompt template.) (v3.0: the craft set rewritten as a genre standard for any cozy mystery.)
 ---
 
 # Cozy Mystery Craft Documents — how to use this set
@@ -51,6 +51,8 @@ These documents assume the book has its own short foundation. Keep it lean and g
 Do not import another book's or another series' foundation documents as working material. They are decisions for a different book, written as rules, and they leak.
 
 ## Version notes
+
+v3.2 (2026-10-09) sets chapters at 1,800–2,200 words and replaces the "most magnetic" reader question with two reader-pull questions: "Which character would you most like to spend a day with?" and "Which character would you most like to be like?"
 
 v3.1 (2026-10-08) expands the gates to sixteen in five groups (lead within three pages; foil no later than the chapter after commitment; five commandments, bite-sized chapters, variation, book length, the cozy contract and the series pull are gates), makes light-energy universal, and adds `checklist.md` and the prompt template.
 
